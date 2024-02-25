@@ -1,0 +1,718 @@
+id_siniestro,nro_victimas,fecha,franja_hora,tipo_calle,comuna,longitud,latitud,vehiculo_victima,vehiculo_acusado,rol,sexo,edad,gravedad
+2016-0001,1,2016-01-01,4,avenida,8,-58.47533969,-34.68757022,moto,auto,conductor,masculino,19,fatal
+2016-0002,1,2016-01-02,1,gral paz,9,-58.50877521,-34.66977709,auto,pasajeros,conductor,masculino,70,fatal
+2016-0003,1,2016-01-03,7,avenida,1,-58.39040293,-34.63189362,moto,auto,conductor,masculino,30,fatal
+2016-0004,1,2016-01-10,0,avenida,8,-58.46503904,-34.68092974,moto,,conductor,masculino,18,fatal
+2016-0005,1,2016-01-21,5,avenida,1,-58.38718297,-34.62246630,moto,pasajeros,conductor,masculino,29,fatal
+2016-0008,1,2016-01-24,18,avenida,8,-58.44451316,-34.68475866,moto,objeto fijo,conductor,masculino,30,fatal
+2016-0009,1,2016-01-24,19,calle,11,-58.50095869,-34.60825440,moto,auto,pasajero_acompañante,masculino,29,fatal
+2016-0010,1,2016-01-29,15,gral paz,9,-58.50877521,-34.66977709,moto,auto,conductor,masculino,18,fatal
+2016-0012,1,2016-02-08,1,avenida,1,-58.38048577,-34.61303893,moto,cargas,conductor,masculino,22,fatal
+2016-0013,1,2016-02-10,11,avenida,1,-58.39114932,-34.62477387,peaton,auto,peaton,masculino,16,fatal
+2016-0015,1,2016-02-14,5,avenida,15,-58.43760020,-34.59912758,peaton,auto,peaton,femenino,16,fatal
+2016-0016,1,2016-02-14,22,avenida,4,-58.36882665,-34.64291993,moto,auto,pasajero_acompañante,femenino,19,fatal
+2016-0017,1,2016-02-15,16,avenida,8,-58.44989671,-34.65970435,peaton,moto,peaton,masculino,59,fatal
+2016-0019,1,2016-02-17,9,calle,9,-58.50990884,-34.65468721,peaton,pasajeros,peaton,femenino,65,fatal
+2016-0020,1,2016-02-17,16,calle,1,-58.37952223,-34.60653282,peaton,auto,peaton,masculino,59,fatal
+2016-0021,1,2016-02-17,23,avenida,7,-58.45157703,-34.63063795,auto,auto,conductor,masculino,34,fatal
+2016-0022,1,2016-02-21,6,avenida,1,-58.38144696,-34.61079875,moto,auto,pasajero_acompañante,masculino,41,fatal
+2016-0025,1,2016-02-28,4,gral paz,8,-58.46244952,-34.70524971,auto,auto,pasajero_acompañante,masculino,34,fatal
+2016-0026,1,2016-02-28,7,calle,12,-58.49216191,-34.54738649,auto,objeto fijo,conductor,masculino,30,fatal
+2016-0027,1,2016-02-28,9,avenida,7,-58.44497874,-34.63852623,auto,auto,pasajero_acompañante,masculino,34,fatal
+2016-0028,1,2016-03-02,10,avenida,1,-58.38199706,-34.60028648,peaton,cargas,peaton,masculino,50,fatal
+2016-0029,1,2016-03-04,17,avenida,12,-58.47378664,-34.54153077,peaton,pasajeros,peaton,masculino,38,fatal
+2016-0031,1,2016-03-08,12,gral paz,8,-58.47064556,-34.69843756,moto,pasajeros,conductor,masculino,21,fatal
+2016-0034,1,2016-03-12,12,avenida,4,-58.40623949,-34.65076549,peaton,pasajeros,peaton,masculino,52,fatal
+2016-0035,1,2016-03-13,6,avenida,3,-58.39228965,-34.60443527,moto,pasajeros,conductor,masculino,34,fatal
+2016-0036,1,2016-03-14,0,calle,4,-58.37813396,-34.63668504,moto,pasajeros,pasajero_acompañante,masculino,36,fatal
+2016-0037,1,2016-03-19,11,avenida,7,-58.46275892,-34.64358293,moto,moto,conductor,masculino,20,fatal
+2016-0038,1,2016-03-21,8,gral paz,8,-58.49683458,-34.67892743,peaton,pasajeros,peaton,masculino,29,fatal
+2016-0039,1,2016-03-23,1,avenida,3,-58.40603217,-34.60883960,moto,pasajeros,conductor,masculino,20,fatal
+2016-0041,2,2016-03-29,11,avenida,7,-58.46076550,-34.63350444,moto,cargas,conductor,masculino,54,fatal
+2016-0041,2,2016-03-29,11,avenida,7,-58.46076550,-34.63350444,moto,cargas,pasajero_acompañante,masculino,,fatal
+2016-0043,1,2016-03-30,18,avenida,8,-58.47832463,-34.67494416,peaton,cargas,peaton,femenino,56,fatal
+2016-0044,1,2016-03-31,19,avenida,7,-58.43213235,-34.63693953,moto,multiple,conductor,masculino,24,fatal
+2016-0045,1,2016-04-11,10,gral paz,13,-58.46743471,-34.53476874,moto,,conductor,masculino,,fatal
+2016-0047,1,2016-04-15,5,calle,1,-58.38247061,-34.62571878,peaton,pasajeros,peaton,masculino,41,fatal
+2016-0048,1,2016-04-15,17,avenida,15,-58.44759966,-34.59170240,peaton,pasajeros,peaton,femenino,,fatal
+2016-0049,1,2016-04-17,0,autopista,4,-58.37714647568196,-34.63657525428238,,,,,,fatal
+2016-0050,1,2016-04-19,9,avenida,8,-58.47305463,-34.68550712,peaton,pasajeros,peaton,masculino,78,fatal
+2016-0051,1,2016-04-20,4,avenida,4,-58.40623949,-34.65076549,moto,cargas,conductor,masculino,36,fatal
+2016-0052,1,2016-04-20,20,autopista,13,-58.45757936,-34.53895793,moto,,,,,fatal
+2016-0053,1,2016-04-22,9,avenida,12,-58.48429180,-34.57558053,peaton,pasajeros,peaton,masculino,38,fatal
+2016-0054,1,2016-04-23,21,autopista,8,-58.48695354,-34.68795245,moto,moto,conductor,masculino,30,fatal
+2016-0055,1,2016-04-25,20,avenida,14,-58.40021959,-34.57964781,peaton,cargas,peaton,masculino,79,fatal
+2016-0056,1,2016-04-26,4,avenida,14,-58.42957885,-34.57660058,moto,objeto fijo,conductor,masculino,26,fatal
+2016-0058,1,2016-05-04,14,calle,1,-58.38247542,-34.62556293,peaton,moto,peaton,femenino,57,fatal
+2016-0059,1,2016-05-08,16,calle,1,-58.38222219,-34.62728101,peaton,pasajeros,peaton,masculino,37,fatal
+2016-0064,1,2016-05-14,18,avenida,10,-58.49485242,-34.62953445,peaton,pasajeros,peaton,masculino,20,fatal
+2016-0065,1,2016-05-20,14,avenida,6,-58.45227946,-34.61068024,peaton,auto,peaton,masculino,20,fatal
+2016-0067,1,2016-05-21,17,avenida,8,-58.48455411,-34.67512760,moto,pasajeros,pasajero_acompañante,femenino,30,fatal
+2016-0068,1,2016-05-22,22,avenida,2,-58.39056593,-34.58418569,moto,pasajeros,conductor,masculino,58,fatal
+2016-0069,1,2016-05-23,3,avenida,3,-58.39118948,-34.62704273,auto,cargas,conductor,masculino,30,fatal
+2016-0073,1,2016-06-11,15,calle,10,-58.49021952,-34.62025108,moto,cargas,conductor,masculino,23,fatal
+2016-0074,1,2016-06-12,6,gral paz,8,-58.49896559,-34.67732118,auto,auto,conductor,masculino,60,fatal
+2016-0075,1,2016-06-12,23,autopista,8,-58.47461076,-34.66874679,peaton,auto,peaton,masculino,42,fatal
+2016-0076,1,2016-06-13,16,avenida,15,-58.46210891,-34.60356211,peaton,pasajeros,peaton,femenino,53,fatal
+2016-0077,1,2016-06-13,21,avenida,1,-58.37027770,-34.60536123,peaton,pasajeros,peaton,femenino,,fatal
+2016-0078,1,2016-06-13,23,avenida,3,-58.40491455,-34.61463830,moto,moto,conductor,masculino,30,fatal
+2016-0079,1,2016-06-16,17,avenida,13,-58.45504154,-34.54864492,auto,auto,conductor,femenino,51,fatal
+2016-0080,1,2016-06-18,6,gral paz,9,-58.52927982,-34.63931752,auto,,conductor,masculino,60,fatal
+2016-0081,1,2016-06-22,7,avenida,12,-58.48721060,-34.55904606,moto,auto,conductor,masculino,40,fatal
+2016-0082,1,2016-06-27,18,avenida,4,-58.42273092,-34.64228803,peaton,auto,peaton,masculino,87,fatal
+2016-0083,1,2016-06-28,20,avenida,6,-58.44788671,-34.62539009,peaton,moto,peaton,femenino,76,fatal
+2016-0084,1,2016-06-29,22,calle,1,-58.38110563,-34.60135531,peaton,pasajeros,peaton,masculino,57,fatal
+2016-0085,1,2016-06-29,22,avenida,4,-58.42378834,-34.65734100,moto,otro,,masculino,,fatal
+2016-0086,1,2016-06-30,16,avenida,10,-58.48727942,-34.63652467,peaton,pasajeros,peaton,masculino,75,fatal
+2016-0087,1,2016-07-02,0,autopista,1,-58.37864583,-34.62907067,moto,objeto fijo,conductor,masculino,23,fatal
+2016-0088,1,2016-07-11,15,calle,12,-58.50151750,-34.56767549,peaton,auto,peaton,femenino,70,fatal
+2016-0089,1,2016-07-14,6,autopista,13,-58.43233425,-34.55185825,peaton,auto,peaton,masculino,35,fatal
+2016-0090,1,2016-07-14,22,avenida,5,-58.41971993,-34.61112240,peaton,pasajeros,peaton,masculino,60,fatal
+2016-0092,1,2016-07-15,11,gral paz,13,-58.46743471,-34.53476874,moto,cargas,conductor,masculino,24,fatal
+2016-0093,1,2016-07-17,3,avenida,6,-58.44362126,-34.62301748,auto,auto,conductor,masculino,35,fatal
+2016-0095,1,2016-07-23,6,avenida,11,-58.51713095,-34.59546519,moto,auto,conductor,masculino,29,fatal
+2016-0096,1,2016-07-25,7,autopista,8,-58.47433193007387,-34.66684950051973,moto,cargas,conductor,masculino,,fatal
+2016-0097,1,2016-07-26,18,calle,1,-58.39038605,-34.61562810,peaton,auto,peaton,masculino,80,fatal
+2016-0098,1,2016-07-27,16,avenida,3,-58.40042405,-34.62356174,moto,cargas,conductor,femenino,43,fatal
+2016-0099,1,2016-07-29,16,gral paz,11,-58.52340614,-34.59798754,cargas,cargas,conductor,masculino,45,fatal
+2016-0100,1,2016-08-03,23,gral paz,12,-58.49491054,-34.54795581,moto,objeto fijo,conductor,masculino,57,fatal
+2016-0101,1,2016-08-07,19,gral paz,9,-58.52932872,-34.65014993,,,,masculino,67,fatal
+2016-0102,1,2016-08-10,23,avenida,9,-58.50011639,-34.67316502,moto,cargas,conductor,masculino,29,fatal
+2016-0104,1,2016-08-14,21,avenida,9,-58.46635001,-34.65624369,moto,pasajeros,conductor,masculino,21,fatal
+2016-0105,1,2016-08-17,0,avenida,15,-58.45343236,-34.58435809,peaton,pasajeros,peaton,masculino,19,fatal
+2016-0106,1,2016-08-19,21,avenida,1,-58.38090932,-34.58927731,peaton,pasajeros,peaton,masculino,38,fatal
+2016-0107,1,2016-08-20,8,autopista,4,-58.37157668,-34.65429986,moto,auto,conductor,masculino,21,fatal
+2016-0109,1,2016-08-24,5,autopista,9,-58.52280139,-34.63659934,auto,objeto fijo,conductor,femenino,53,fatal
+2016-0110,1,2016-08-24,20,avenida,9,-58.51232237,-34.65903530,peaton,,peaton,masculino,57,fatal
+2016-0111,1,2016-08-25,9,autopista,15,-58.47461905,-34.57663634,moto,cargas,conductor,masculino,27,fatal
+2016-0112,1,2016-08-27,4,autopista,1,-58.38268809,-34.62282019,moto,objeto fijo,conductor,masculino,24,fatal
+2016-0113,1,2016-08-27,16,avenida,9,-58.49603546,-34.64564271,peaton,pasajeros,peaton,femenino,60,fatal
+2016-0114,1,2016-08-31,11,calle,14,-58.41848605,-34.59394733,bicicleta,cargas,ciclista,femenino,55,fatal
+2016-0115,1,2016-09-02,11,calle,12,-58.48935041,-34.54917673,,cargas,,masculino,,fatal
+2016-0116,1,2016-09-02,20,avenida,8,-58.44451316,-34.68475866,moto,auto,conductor,masculino,30,fatal
+2016-0117,1,2016-09-03,15,avenida,14,-58.39936478,-34.58271474,auto,auto,conductor,masculino,43,fatal
+2016-0118,1,2016-09-04,3,autopista,1,-58.37936704,-34.62694503,auto,auto,conductor,masculino,27,fatal
+2016-0119,1,2016-09-04,6,avenida,12,-58.49659234,-34.56353635,,,pasajero_acompañante,femenino,,fatal
+2016-0122,1,2016-09-13,7,avenida,9,-58.47256391,-34.65194557,bicicleta,pasajeros,ciclista,masculino,49,fatal
+2016-0123,1,2016-09-14,9,avenida,7,-58.45130953,-34.64053676,moto,auto,conductor,femenino,58,fatal
+2016-0124,1,2016-09-16,15,avenida,7,-58.46271207,-34.62884871,peaton,pasajeros,peaton,masculino,67,fatal
+2016-0125,1,2016-09-17,12,autopista,10,-58.49020869,-34.64243791,moto,moto,conductor,masculino,30,fatal
+2016-0126,2,2016-09-18,22,calle,10,-58.52572109,-34.62125906,auto,cargas,conductor,masculino,37,fatal
+2016-0126,2,2016-09-18,22,calle,10,-58.52572109,-34.62125906,auto,cargas,pasajero_acompañante,masculino,60,fatal
+2016-0127,1,2016-09-24,10,avenida,8,-58.44094791,-34.66677111,peaton,pasajeros,peaton,masculino,50,fatal
+2016-0128,1,2016-10-02,11,avenida,5,-58.41914024,-34.63053890,peaton,pasajeros,peaton,femenino,81,fatal
+2016-0130,1,2016-10-04,12,autopista,1,-58.37910942,-34.62764717,moto,cargas,conductor,masculino,29,fatal
+2016-0131,1,2016-10-09,19,calle,4,-58.39871183,-34.64539318,peaton,auto,peaton,masculino,35,fatal
+2016-0132,1,2016-10-10,2,avenida,3,-58.41036975,-34.62477021,auto,pasajeros,pasajero_acompañante,masculino,30,fatal
+2016-0133,1,2016-10-14,0,avenida,14,-58.40204698,-34.58342690,moto,auto,conductor,masculino,41,fatal
+2016-0134,1,2016-10-23,5,avenida,8,-58.48935287,-34.67648597,moto,objeto fijo,conductor,masculino,25,fatal
+2016-0135,1,2016-10-24,5,avenida,14,-58.42260225,-34.56403694,peaton,,peaton,masculino,29,fatal
+2016-0136,1,2016-10-25,0,autopista,4,-58.36340155,-34.6243712,moto,cargas,conductor,,,fatal
+2016-0137,1,2016-10-25,0,avenida,11,-58.51537091,-34.59035925,moto,moto,conductor,masculino,30,fatal
+2016-0138,1,2016-10-27,20,avenida,13,-58.45909670,-34.55922742,bicicleta,cargas,ciclista,femenino,33,fatal
+2016-0139,1,2016-10-28,23,avenida,14,-58.42008769,-34.56539579,moto,moto,pasajero_acompañante,femenino,35,fatal
+2016-0140,1,2016-10-31,2,avenida,13,-58.45566399,-34.56147293,pasajeros,pasajeros,pasajero_acompañante,masculino,20,fatal
+2016-0142,1,2016-11-05,23,avenida,1,-58.37533517,-34.59276462,moto,pasajeros,conductor,masculino,46,fatal
+2016-0143,1,2016-11-06,4,avenida,8,-58.44451316,-34.68475866,moto,,conductor,masculino,35,fatal
+2016-0144,1,2016-11-07,12,avenida,4,-58.35975012,-34.63343907,peaton,pasajeros,peaton,masculino,83,fatal
+2016-0145,1,2016-11-07,20,avenida,13,-58.44523595,-34.55953855,moto,auto,conductor,masculino,39,fatal
+2016-0146,1,2016-11-09,20,avenida,4,-58.39626094,-34.63036565,peaton,pasajeros,peaton,femenino,29,fatal
+2016-0147,1,2016-11-16,21,avenida,1,-58.38896772,-34.61799615,movil,pasajeros,pasajero_acompañante,masculino,55,fatal
+2016-0148,1,2016-11-16,22,avenida,15,-58.46536113,-34.59484504,moto,moto,conductor,masculino,,fatal
+2016-0150,1,2016-11-18,18,avenida,4,-58.40879146,-34.65273216,cargas,cargas,pasajero_acompañante,masculino,41,fatal
+2016-0151,1,2016-11-18,20,calle,10,-58.52756365,-34.62772274,peaton,,peaton,,,fatal
+2016-0152,1,2016-11-23,21,avenida,7,-58.46451841,-34.64991946,moto,auto,conductor,masculino,42,fatal
+2016-0153,1,2016-11-25,15,avenida,15,-58.42917090,-34.59485488,peaton,moto,peaton,femenino,83,fatal
+2016-0154,1,2016-11-26,14,gral paz,8,-58.49007772,-34.68251141,moto,moto,conductor,masculino,38,fatal
+2016-0155,1,2016-11-26,16,calle,10,-58.52756365,-34.62772274,peaton,auto,peaton,femenino,29,fatal
+2016-0156,1,2016-11-26,19,avenida,3,-58.40638983,-34.61943202,moto,pasajeros,conductor,masculino,23,fatal
+2016-0157,1,2016-12-03,6,avenida,11,-58.47576807,-34.61740997,moto,moto,conductor,masculino,23,fatal
+2016-0159,1,2016-12-04,7,avenida,8,-58.44451316,-34.68475866,auto,,conductor,masculino,23,fatal
+2016-0160,1,2016-12-06,5,autopista,9,-58.51927194,-34.63635787,cargas,objeto fijo,conductor,masculino,29,fatal
+2016-0161,1,2016-12-06,7,avenida,14,-58.42525456,-34.57866344,peaton,pasajeros,peaton,masculino,50,fatal
+2016-0162,1,2016-12-07,5,avenida,15,-58.45396573,-34.58518167,peaton,auto,peaton,masculino,38,fatal
+2016-0163,1,2016-12-10,7,gral paz,11,-58.52340614,-34.59798754,moto,auto,conductor,masculino,23,fatal
+2016-0164,1,2016-12-11,6,avenida,4,-58.42323628,-34.64119105,auto,auto,conductor,masculino,29,fatal
+2016-0165,1,2016-12-12,8,avenida,4,-58.36926144,-34.62841919,bicicleta,pasajeros,ciclista,masculino,37,fatal
+2016-0168,1,2016-12-13,10,avenida,4,-58.42323628,-34.64119105,moto,auto,conductor,masculino,43,fatal
+2016-0169,1,2016-12-15,15,avenida,12,-58.47935434,-34.55676497,moto,pasajeros,conductor,masculino,24,fatal
+2016-0170,1,2016-12-19,17,gral paz,12,-58.50598256,-34.56379980,moto,auto,pasajero_acompañante,masculino,21,fatal
+2016-0171,1,2016-12-25,19,autopista,1,-58.36607137,-34.62150748,moto,moto,conductor,,,fatal
+2016-0172,1,2016-12-26,8,avenida,5,-58.41918902,-34.63174259,moto,cargas,conductor,masculino,38,fatal
+2016-0173,1,2016-12-26,19,avenida,7,-58.46749188,-34.63551751,moto,cargas,conductor,masculino,35,fatal
+2016-0174,1,2016-12-27,0,autopista,7,-58.36952992,-34.62247256,,,,,,fatal
+2016-0175,1,2016-12-27,8,calle,7,-58.46064174,-34.62960517,peaton,bicicleta,peaton,femenino,,fatal
+2016-0176,1,2016-12-28,1,avenida,1,-58.36956186,-34.61232875,moto,pasajeros,conductor,masculino,28,fatal
+2016-0177,1,2016-12-29,4,calle,14,-58.40966671,-34.58788235,peaton,auto,peaton,femenino,27,fatal
+2016-0178,1,2016-12-30,16,calle,3,-58.40288226,-34.61544091,peaton,multiple,peaton,femenino,7,fatal
+2017-0001,1,2017-01-02,1,avenida,11,-58.46594230,-34.61028571,moto,cargas,conductor,masculino,18,fatal
+2017-0003,1,2017-01-05,3,avenida,4,-58.38957669,-34.64410277,cargas,cargas,pasajero_acompañante,masculino,33,fatal
+2017-0007,1,2017-01-11,17,calle,1,-58.38161660,-34.61529543,peaton,multiple,peaton,masculino,48,fatal
+2017-0008,1,2017-01-16,0,calle,14,-58.43917004,-34.58494351,moto,pasajeros,conductor,masculino,29,fatal
+2017-0009,1,2017-01-16,13,autopista,5,-58.41595919,-34.62743346,moto,cargas,conductor,masculino,36,fatal
+2017-0010,1,2017-01-16,16,avenida,6,-58.43564880,-34.62828656,moto,auto,conductor,masculino,23,fatal
+2017-0011,1,2017-01-22,2,gral paz,12,-58.50073810,-34.54979510,moto,objeto fijo,pasajero_acompañante,femenino,29,fatal
+2017-0012,1,2017-01-24,14,calle,4,-58.40969005,-34.65055290,moto,cargas,conductor,masculino,30,fatal
+2017-0013,1,2017-01-27,7,avenida,4,-58.38972622,-34.65098981,peaton,cargas,peaton,masculino,4,fatal
+2017-0014,1,2017-01-28,8,avenida,12,-58.49185972,-34.55046754,moto,multiple,pasajero_acompañante,femenino,22,fatal
+2017-0015,1,2017-02-02,15,avenida,2,-58.39293417,-34.59963642,peaton,auto,peaton,masculino,82,fatal
+2017-0016,1,2017-02-03,5,autopista,1,-58.38099494,-34.62288231,moto,cargas,conductor,masculino,27,fatal
+2017-0017,1,2017-02-06,8,avenida,14,-58.42901200,-34.58095431,moto,auto,conductor,masculino,32,fatal
+2017-0018,1,2017-02-09,7,gral paz,9,-58.50877521,-34.66977709,moto,auto,conductor,masculino,30,fatal
+2017-0021,1,2017-02-18,5,calle,1,-58.38362373,-34.60509972,moto,pasajeros,conductor,masculino,43,fatal
+2017-0024,1,2017-02-23,20,avenida,7,-58.46589308,-34.62955795,peaton,pasajeros,peaton,masculino,39,fatal
+2017-0025,1,2017-02-24,17,avenida,7,-58.43614426,-34.65424640,moto,,conductor,masculino,23,fatal
+2017-0026,2,2017-02-26,5,avenida,4,-58.41842777,-34.64979057,auto,objeto fijo,pasajero_acompañante,femenino,23,fatal
+2017-0026,2,2017-02-26,5,avenida,4,-58.41842777,-34.64979057,auto,objeto fijo,conductor,masculino,19,fatal
+2017-0027,1,2017-02-26,21,avenida,1,-58.38332245,-34.63193250,peaton,auto,peaton,masculino,,fatal
+2017-0028,1,2017-02-28,9,avenida,6,-58.45475488,-34.61196327,peaton,auto,peaton,masculino,87,fatal
+2017-0029,1,2017-03-07,2,calle,9,-58.48501341,-34.64742455,,auto,,masculino,34,fatal
+2017-0030,1,2017-03-07,8,avenida,9,-58.47010988,-34.65872088,auto,pasajeros,conductor,femenino,27,fatal
+2017-0031,1,2017-03-11,1,calle,3,-58.40997560,-34.62873635,auto,objeto fijo,pasajero_acompañante,masculino,70,fatal
+2017-0032,1,2017-03-12,5,gral paz,8,-58.48892175,-34.68359163,auto,auto,pasajero_acompañante,femenino,40,fatal
+2017-0033,1,2017-03-12,7,gral paz,11,-58.52466448,-34.60325478,auto,auto,conductor,masculino,28,fatal
+2017-0034,1,2017-03-13,7,calle,14,-58.42554218,-34.57929036,peaton,auto,peaton,masculino,43,fatal
+2017-0035,3,2017-03-23,5,avenida,1,-58.35881506,-34.61113641,auto,objeto fijo,conductor,masculino,28,fatal
+2017-0035,3,2017-03-23,5,avenida,1,-58.35881506,-34.61113641,auto,objeto fijo,pasajero_acompañante,masculino,32,fatal
+2017-0035,3,2017-03-23,5,avenida,1,-58.35881506,-34.61113641,auto,objeto fijo,pasajero_acompañante,masculino,30,fatal
+2017-0036,2,2017-03-29,18,gral paz,12,-58.51452347,-34.58159762,moto,pasajeros,pasajero_acompañante,femenino,,fatal
+2017-0036,2,2017-03-29,18,gral paz,12,-58.51452347,-34.58159762,moto,pasajeros,conductor,masculino,20,fatal
+2017-0037,1,2017-03-31,3,avenida,1,-58.38896772,-34.61799615,moto,cargas,conductor,masculino,41,fatal
+2017-0038,1,2017-04-01,19,avenida,7,-58.44516857,-34.64363363,moto,auto,conductor,femenino,40,fatal
+2017-0040,1,2017-04-03,9,avenida,13,-58.43834197,-34.54560369,auto,multiple,conductor,masculino,43,fatal
+2017-0041,1,2017-04-03,23,calle,7,-58.45485084,-34.63531854,moto,auto,conductor,masculino,17,fatal
+2017-0042,1,2017-04-10,9,gral paz,14,-58.45757936,-34.53895793,moto,cargas,conductor,masculino,,fatal
+2017-0045,1,2017-04-14,6,calle,10,-58.52449285,-34.62454175,moto,objeto fijo,conductor,masculino,21,fatal
+2017-0047,1,2017-04-23,6,avenida,8,-58.46713742,-34.67198790,moto,auto,conductor,masculino,37,fatal
+2017-0049,1,2017-04-27,18,avenida,8,-58.43850413,-34.65554754,peaton,pasajeros,peaton,masculino,22,fatal
+2017-0050,2,2017-04-28,11,autopista,9,-58.4818003,-34.64700534,moto,cargas,conductor,masculino,46,fatal
+2017-0050,2,2017-04-28,11,autopista,9,-58.4818003,-34.64700534,moto,cargas,pasajero_acompañante,masculino,16,fatal
+2017-0051,1,2017-05-01,3,autopista,7,-58.47944776,-34.67812101,auto,auto,conductor,masculino,33,fatal
+2017-0052,1,2017-05-05,3,gral paz,8,-58.49413799,-34.68095739,peaton,cargas,peaton,femenino,47,fatal
+2017-0053,1,2017-05-05,20,calle,4,-58.37547846,-34.65326075,moto,cargas,conductor,masculino,28,fatal
+2017-0054,1,2017-05-07,21,avenida,15,-58.48680218,-34.58689719,moto,auto,pasajero_acompañante,femenino,20,fatal
+2017-0055,1,2017-05-09,8,avenida,12,-58.49563989,-34.57962262,auto,auto,conductor,masculino,32,fatal
+2017-0058,1,2017-05-09,23,avenida,1,-58.38403232,-34.59915940,peaton,moto,peaton,masculino,80,fatal
+2017-0059,1,2017-05-11,9,calle,1,-58.38223382,-34.62693865,peaton,pasajeros,peaton,femenino,39,fatal
+2017-0060,1,2017-05-13,7,avenida,8,-58.45966521,-34.67323292,moto,objeto fijo,pasajero_acompañante,masculino,30,fatal
+2017-0061,1,2017-05-15,13,avenida,2,-58.39303911,-34.59871111,peaton,moto,peaton,masculino,47,fatal
+2017-0062,1,2017-05-15,16,avenida,10,-58.51262106,-34.63395999,moto,cargas,conductor,masculino,35,fatal
+2017-0063,1,2017-05-17,10,avenida,1,-58.38118367,-34.61646839,peaton,pasajeros,peaton,femenino,79,fatal
+2017-0064,1,2017-05-20,5,calle,1,-58.37653284,-34.60582475,cargas,auto,pasajero_acompañante,masculino,61,fatal
+2017-0065,1,2017-05-22,16,avenida,4,-58.37709334,-34.64035082,bicicleta,cargas,ciclista,masculino,21,fatal
+2017-0066,1,2017-05-22,18,avenida,15,-58.46002142,-34.60409469,peaton,pasajeros,peaton,masculino,10,fatal
+2017-0067,1,2017-05-23,2,avenida,6,-58.43381970,-34.62801894,moto,cargas,conductor,masculino,21,fatal
+2017-0068,1,2017-05-27,19,avenida,8,-58.43580656,-34.66437532,moto,objeto fijo,conductor,masculino,32,fatal
+2017-0069,1,2017-05-24,14,gral paz,9,-58.52173071,-34.65997463,moto,,conductor,masculino,39,fatal
+2017-0070,1,2017-05-30,13,calle,11,-58.50791763,-34.59804273,peaton,auto,peaton,masculino,80,fatal
+2017-0072,1,2017-06-03,23,avenida,12,-58.49175088,-34.58226957,auto,auto,conductor,masculino,25,fatal
+2017-0073,1,2017-06-04,9,avenida,3,-58.40781467,-34.60425669,moto,auto,conductor,masculino,19,fatal
+2017-0074,1,2017-06-04,12,calle,9,-58.52567073,-34.63787791,,,,masculino,70,fatal
+2017-0075,1,2017-06-12,22,avenida,1,-58.38154200,-34.60906385,peaton,moto,peaton,masculino,55,fatal
+2017-0076,1,2017-06-13,14,avenida,2,-58.38526125,-34.57805810,peaton,cargas,peaton,femenino,30,fatal
+2017-0077,1,2017-06-17,23,calle,14,-58.42934104,-34.58451712,moto,cargas,conductor,femenino,60,fatal
+2017-0079,1,2017-06-19,16,calle,3,-58.40657493,-34.61781124,moto,cargas,conductor,masculino,33,fatal
+2017-0080,1,2017-06-22,10,avenida,9,-58.49525314,-34.64487785,peaton,cargas,peaton,femenino,95,fatal
+2017-0082,1,2017-06-25,22,avenida,4,-58.39092851,-34.62932696,peaton,auto,peaton,masculino,36,fatal
+2017-0083,1,2017-07-04,0,avenida,9,-58.49603546,-34.64564271,moto,cargas,conductor,masculino,37,fatal
+2017-0084,1,2017-07-05,12,avenida,2,-58.38502878,-34.58703485,peaton,pasajeros,peaton,femenino,73,fatal
+2017-0085,1,2017-07-07,14,avenida,4,-58.37261143,-34.63150425,peaton,pasajeros,peaton,masculino,84,fatal
+2017-0086,1,2017-07-09,7,avenida,9,-58.51876802,-34.63905965,peaton,moto,peaton,femenino,30,fatal
+2017-0087,1,2017-07-10,10,calle,3,-58.41095567,-34.61516101,peaton,auto,peaton,femenino,73,fatal
+2017-0088,1,2017-07-10,22,avenida,1,-58.36797542,-34.62519403,peaton,pasajeros,peaton,masculino,43,fatal
+2017-0089,1,2017-07-13,12,calle,9,-58.51514709,-34.64787051,,auto,,masculino,23,fatal
+2017-0090,1,2017-07-15,5,gral paz,11,-58.51925642,-34.59171721,peaton,auto,peaton,masculino,22,fatal
+2017-0091,1,2017-07-15,13,gral paz,12,-58.48671535,-34.54321216,moto,,conductor,masculino,58,fatal
+2017-0092,1,2017-07-24,22,autopista,1,-58.38268809,-34.62282019,peaton,auto,peaton,masculino,66,fatal
+2017-0093,1,2017-07-25,16,autopista,13,-58.43633522,-34.54966288,peaton,auto,peaton,masculino,,fatal
+2017-0094,1,2017-07-27,8,calle,10,-58.52640838,-34.61765855,bicicleta,cargas,ciclista,femenino,56,fatal
+2017-0095,1,2017-08-06,8,avenida,14,-58.41894306,-34.59778875,moto,auto,conductor,masculino,36,fatal
+2017-0096,1,2017-08-07,19,avenida,13,-58.46756026,-34.54972741,peaton,pasajeros,peaton,masculino,87,fatal
+2017-0098,1,2017-08-08,12,calle,7,-58.45715752,-34.63132912,peaton,auto,peaton,femenino,61,fatal
+2017-0099,1,2017-08-17,19,avenida,14,-58.42406784,-34.56213916,bicicleta,auto,ciclista,masculino,28,fatal
+2017-0100,1,2017-08-21,7,calle,3,-58.39674470,-34.61512051,moto,objeto fijo,pasajero_acompañante,femenino,16,fatal
+2017-0101,1,2017-08-23,10,avenida,13,-58.44537508,-34.57084818,peaton,multiple,peaton,femenino,61,fatal
+2017-0102,1,2017-08-24,1,avenida,4,-58.40056767,-34.65107080,peaton,cargas,peaton,masculino,46,fatal
+2017-0104,1,2017-08-25,9,avenida,1,-58.38109568,-34.61853244,peaton,cargas,peaton,femenino,18,fatal
+2017-0106,1,2017-08-31,19,calle,14,-58.42533612,-34.58035258,peaton,pasajeros,peaton,femenino,85,fatal
+2017-0107,1,2017-09-01,11,avenida,13,-58.46062311,-34.54395182,moto,cargas,conductor,masculino,41,fatal
+2017-0108,2,2017-09-02,4,gral paz,12,-58.49491054,-34.54795581,objeto fijo,auto,pasajero_acompañante,masculino,17,fatal
+2017-0108,2,2017-09-02,4,gral paz,12,-58.49491054,-34.54795581,objeto fijo,auto,pasajero_acompañante,masculino,10,fatal
+2017-0109,1,2017-09-04,21,avenida,7,-58.47130269,-34.63665402,moto,auto,conductor,masculino,21,fatal
+2017-0110,1,2017-09-06,14,avenida,1,-58.37048800,-34.60189492,peaton,pasajeros,peaton,masculino,56,fatal
+2017-0111,1,2017-09-07,18,calle,4,-58.42023854,-34.64234110,peaton,cargas,peaton,femenino,79,fatal
+2017-0112,2,2017-09-10,9,autopista,7,-58.45807401,-34.63997430,auto,objeto fijo,pasajero_acompañante,masculino,1,fatal
+2017-0112,2,2017-09-10,9,autopista,7,-58.45807401,-34.63997430,auto,objeto fijo,pasajero_acompañante,masculino,,fatal
+2017-0113,1,2017-09-11,6,avenida,1,-58.37697717,-34.59573848,peaton,pasajeros,peaton,femenino,76,fatal
+2017-0114,1,2017-09-15,2,avenida,2,-58.39100580,-34.58498660,auto,objeto fijo,conductor,masculino,26,fatal
+2017-0115,1,2017-09-19,18,avenida,5,-58.42182126,-34.63089661,moto,bicicleta,conductor,masculino,34,fatal
+2017-0116,1,2017-09-20,22,gral paz,12,-58.51389422,-34.58075791,moto,objeto fijo,conductor,masculino,22,fatal
+2017-0118,1,2017-09-22,7,avenida,4,-58.37585415,-34.65232158,moto,auto,pasajero_acompañante,femenino,26,fatal
+2017-0120,1,2017-10-02,15,autopista,9,-58.47297505,-34.66245085,moto,cargas,conductor,masculino,20,fatal
+2017-0123,1,2017-10-10,1,avenida,8,-58.46855503,-34.67216349,peaton,auto,peaton,femenino,36,fatal
+2017-0124,1,2017-10-12,14,calle,15,-58.44254033,-34.59185043,moto,pasajeros,conductor,masculino,51,fatal
+2017-0125,1,2017-10-13,6,avenida,8,-58.46622247,-34.67926929,moto,objeto fijo,conductor,masculino,29,fatal
+2017-0126,2,2017-10-14,6,avenida,8,-58.48003734,-34.68148508,auto,objeto fijo,pasajero_acompañante,masculino,39,fatal
+2017-0126,2,2017-10-14,6,avenida,8,-58.48003734,-34.68148508,auto,objeto fijo,conductor,masculino,36,fatal
+2017-0127,1,2017-10-16,7,avenida,2,-58.41192137,-34.59800248,moto,moto,pasajero_acompañante,masculino,24,fatal
+2017-0128,1,2017-10-17,12,calle,6,-58.44034689,-34.61349731,peaton,pasajeros,peaton,femenino,60,fatal
+2017-0129,1,2017-10-26,19,autopista,9,-58.47155277,-34.64925746,moto,pasajeros,conductor,masculino,57,fatal
+2017-0130,1,2017-10-27,5,avenida,15,-58.47883099,-34.59967065,auto,cargas,conductor,masculino,23,fatal
+2017-0132,1,2017-10-30,14,avenida,8,-58.46552171,-34.69374130,moto,pasajeros,conductor,masculino,23,fatal
+2017-0134,1,2017-11-06,18,avenida,8,-58.44239720,-34.66777987,peaton,pasajeros,peaton,femenino,47,fatal
+2017-0135,1,2017-11-07,12,avenida,15,-58.47032551,-34.59626814,moto,cargas,conductor,masculino,24,fatal
+2017-0136,1,2017-11-16,8,avenida,4,-58.41827843,-34.65522746,peaton,pasajeros,peaton,masculino,55,fatal
+2017-0137,1,2017-11-17,11,avenida,11,-58.51280715,-34.59279388,peaton,cargas,peaton,femenino,60,fatal
+2017-0138,1,2017-11-19,10,avenida,7,-58.46258582,-34.64385704,moto,objeto fijo,pasajero_acompañante,masculino,25,fatal
+2017-0139,1,2017-11-19,22,avenida,8,-58.45064148,-34.68003614,auto,objeto fijo,pasajero_acompañante,femenino,15,fatal
+2017-0140,1,2017-11-19,23,autopista,4,-58.38078135,-34.6223647,moto,pasajeros,conductor,masculino,24,fatal
+2017-0141,1,2017-11-23,19,avenida,6,-58.42717783,-34.62513374,peaton,pasajeros,peaton,femenino,22,fatal
+2017-0143,1,2017-11-25,21,calle,11,-58.46442001,-34.60724519,auto,pasajeros,conductor,masculino,50,fatal
+2017-0144,1,2017-11-26,6,gral paz,8,-58.47064556,-34.69843756,auto,objeto fijo,pasajero_acompañante,femenino,50,fatal
+2017-0145,1,2017-11-26,17,calle,5,-58.41677733,-34.61223119,moto,auto,conductor,masculino,58,fatal
+2017-0147,1,2017-11-28,11,gral paz,9,-58.50251790,-34.67450313,moto,auto,conductor,masculino,49,fatal
+2017-0148,1,2017-11-29,10,avenida,3,-58.40708125,-34.62438894,peaton,pasajeros,peaton,femenino,82,fatal
+2017-0149,1,2017-11-30,12,avenida,1,-58.36947198,-34.61477051,peaton,pasajeros,peaton,masculino,13,fatal
+2017-0150,1,2017-12-04,1,avenida,9,-58.51140889,-34.63934531,peaton,auto,peaton,masculino,56,fatal
+2017-0151,1,2017-12-04,2,calle,4,-58.37460912,-34.65559133,peaton,pasajeros,peaton,masculino,,fatal
+2017-0152,1,2017-12-06,17,calle,4,-58.41146277,-34.65073916,bicicleta,pasajeros,ciclista,masculino,19,fatal
+2017-0153,2,2017-12-11,2,avenida,6,-58.42855267,-34.61829385,moto,pasajeros,pasajero_acompañante,masculino,,fatal
+2017-0153,2,2017-12-11,2,avenida,6,-58.42855267,-34.61829385,moto,pasajeros,conductor,masculino,30,fatal
+2017-0154,1,2017-12-11,9,avenida,4,-58.39035581,-34.63412287,peaton,pasajeros,peaton,masculino,76,fatal
+2017-0155,1,2017-12-12,21,avenida,7,-58.45593915,-34.62656868,,moto,,masculino,77,fatal
+2017-0157,1,2017-12-17,9,gral paz,9,-58.52866211,-34.64597065,auto,pasajeros,conductor,masculino,53,fatal
+2017-0158,1,2017-12-18,21,gral paz,11,-58.52037476,-34.59407024,moto,auto,conductor,masculino,32,fatal
+2017-0159,1,2017-12-20,4,avenida,1,-58.38896772,-34.61799615,moto,auto,conductor,masculino,27,fatal
+2017-0160,1,2017-12-22,13,avenida,7,-58.47074114,-34.62771756,peaton,moto,peaton,femenino,30,fatal
+2017-0161,1,2017-12-26,15,avenida,9,-58.48200819,-34.65969965,peaton,auto,peaton,femenino,30,fatal
+2018-0001,1,2018-01-01,22,avenida,3,-58.39536773,-34.62297346,peaton,moto,peaton,masculino,83,fatal
+2018-0002,1,2018-01-03,16,calle,1,-58.37456088,-34.61895467,bicicleta,pasajeros,ciclista,femenino,26,fatal
+2018-0003,1,2018-01-05,10,avenida,15,-58.44860217,-34.60395657,peaton,multiple,peaton,femenino,58,fatal
+2018-0004,1,2018-01-09,9,avenida,13,-58.46129513,-34.54332766,moto,multiple,conductor,masculino,39,fatal
+2018-0005,1,2018-01-09,22,avenida,1,-58.36907201,-34.61953517,peaton,pasajeros,peaton,masculino,54,fatal
+2018-0006,1,2018-01-10,21,calle,6,-58.44062219,-34.62499107,bicicleta,pasajeros,ciclista,femenino,45,fatal
+2018-0007,1,2018-01-11,2,autopista,9,-58.52502765,-34.63601265,auto,auto,conductor,masculino,46,fatal
+2018-0008,1,2018-01-12,17,avenida,1,-58.36659655,-34.61687778,moto,cargas,conductor,femenino,32,fatal
+2018-0009,1,2018-01-14,2,avenida,4,-58.36737389,-34.62763661,moto,moto,conductor,masculino,19,fatal
+2018-0010,1,2018-01-18,5,calle,10,-58.49807953,-34.63038658,moto,cargas,conductor,masculino,40,fatal
+2018-0011,1,2018-01-19,10,avenida,2,-58.39092703,-34.59088447,peaton,pasajeros,peaton,masculino,84,fatal
+2018-0012,1,2018-01-26,13,calle,8,-58.46912006,-34.68049201,moto,pasajeros,conductor,masculino,20,fatal
+2018-0013,1,2018-01-28,8,avenida,12,-58.48661286,-34.56786129,moto,auto,conductor,masculino,44,fatal
+2018-0014,1,2018-01-31,20,avenida,7,-58.44074927,-34.65080597,peaton,moto,peaton,masculino,,fatal
+2018-0015,2,2018-02-06,1,avenida,4,-58.38636298,-34.64684275,moto,pasajeros,conductor,masculino,28,fatal
+2018-0015,2,2018-02-06,1,avenida,4,-58.38636298,-34.64684275,moto,pasajeros,pasajero_acompañante,masculino,19,fatal
+2018-0016,1,2018-02-15,10,avenida,1,-58.37533517,-34.59276462,moto,cargas,conductor,masculino,31,fatal
+2018-0017,1,2018-02-17,4,avenida,7,-58.46963952,-34.63070603,peaton,auto,peaton,masculino,35,fatal
+2018-0018,1,2018-02-17,7,calle,4,-58.37207554,-34.64543658,moto,cargas,conductor,masculino,26,fatal
+2018-0019,1,2018-02-17,12,avenida,2,-58.39189441,-34.59176378,peaton,pasajeros,peaton,femenino,80,fatal
+2018-0020,1,2018-02-19,22,autopista,8,-58.45012957,-34.66518343,moto,cargas,conductor,masculino,26,fatal
+2018-0021,1,2018-02-22,10,avenida,4,-58.40184094,-34.64546845,peaton,pasajeros,peaton,femenino,62,fatal
+2018-0022,1,2018-02-24,0,avenida,4,-58.37441153,-34.63966783,moto,cargas,conductor,masculino,28,fatal
+2018-0023,1,2018-02-24,6,calle,6,-58.44110156,-34.62082399,moto,auto,conductor,masculino,28,fatal
+2018-0024,1,2018-02-28,23,avenida,15,-58.47087351,-34.57827342,peaton,cargas,peaton,masculino,70,fatal
+2018-0025,1,2018-03-04,22,avenida,7,-58.45962210,-34.62245140,peaton,auto,peaton,masculino,70,fatal
+2018-0026,2,2018-03-09,4,avenida,4,-58.41657793,-34.65476216,movil,cargas,conductor,masculino,24,fatal
+2018-0026,2,2018-03-09,4,avenida,4,-58.41657793,-34.65476216,movil,cargas,pasajero_acompañante,masculino,30,fatal
+2018-0027,1,2018-03-11,23,calle,5,-58.41911301,-34.63722107,peaton,moto,peaton,femenino,74,fatal
+2018-0028,1,2018-03-13,15,avenida,9,-58.47120586,-34.64251042,peaton,cargas,peaton,masculino,71,fatal
+2018-0029,1,2018-03-15,18,avenida,11,-58.47418944,-34.62049672,moto,auto,conductor,masculino,26,fatal
+2018-0030,1,2018-03-20,1,avenida,15,-58.46720441,-34.57905579,moto,moto,conductor,masculino,24,fatal
+2018-0031,1,2018-03-28,10,avenida,11,-58.46909362,-34.61779710,moto,cargas,conductor,masculino,31,fatal
+2018-0032,1,2018-04-02,13,avenida,13,-58.44704343,-34.56888640,peaton,pasajeros,peaton,masculino,70,fatal
+2018-0033,1,2018-04-07,7,avenida,10,-58.50535541,-34.62902048,moto,cargas,conductor,femenino,42,fatal
+2018-0034,1,2018-04-11,18,avenida,2,-58.40021675,-34.59522198,peaton,pasajeros,peaton,masculino,24,fatal
+2018-0035,1,2018-04-12,16,avenida,7,-58.46325991,-34.62919627,peaton,pasajeros,peaton,femenino,39,fatal
+2018-0036,1,2018-04-13,23,avenida,15,-58.49471482,-34.59694755,moto,auto,conductor,masculino,37,fatal
+2018-0037,1,2018-04-18,18,avenida,2,-58.39872610,-34.59975962,peaton,cargas,peaton,masculino,84,fatal
+2018-0038,2,2018-04-20,17,avenida,1,-58.38872177,-34.60885045,peaton,auto,peaton,femenino,59,fatal
+2018-0038,2,2018-04-20,17,avenida,1,-58.38872177,-34.60885045,peaton,auto,peaton,masculino,61,fatal
+2018-0039,1,2018-04-21,22,autopista,14,-58.45757936,-34.53895793,peaton,auto,peaton,masculino,37,fatal
+2018-0040,1,2018-04-27,11,calle,13,-58.45686132,-34.57305993,peaton,cargas,peaton,femenino,,fatal
+2018-0041,1,2018-04-27,13,avenida,4,-58.42281627,-34.64282424,peaton,pasajeros,peaton,femenino,78,fatal
+2018-0042,1,2018-04-27,18,calle,4,-58.38666024,-34.63953396,moto,cargas,pasajero_acompañante,masculino,23,fatal
+2018-0043,1,2018-04-28,6,avenida,11,-58.49122843,-34.61207587,moto,auto,conductor,masculino,25,fatal
+2018-0044,1,2018-04-28,9,avenida,3,-58.40098306,-34.61866627,peaton,auto,peaton,femenino,50,fatal
+2018-0045,1,2018-04-30,7,avenida,13,-58.45448963,-34.57916920,auto,cargas,conductor,masculino,60,fatal
+2018-0046,1,2018-05-02,3,gral paz,9,-58.52927982,-34.63931752,peaton,auto,peaton,masculino,11,fatal
+2018-0047,1,2018-05-08,19,avenida,15,-58.44759966,-34.59170240,peaton,pasajeros,peaton,masculino,82,fatal
+2018-0048,1,2018-05-09,10,avenida,7,-58.46411215,-34.62925068,peaton,pasajeros,peaton,masculino,57,fatal
+2018-0049,1,2018-05-11,19,calle,13,-58.46213220,-34.55395823,peaton,auto,peaton,femenino,40,fatal
+2018-0050,1,2018-05-14,18,avenida,13,-58.45669422,-34.56203610,peaton,pasajeros,peaton,femenino,47,fatal
+2018-0051,1,2018-05-15,21,calle,4,-58.35977160,-34.64341878,peaton,auto,peaton,femenino,57,fatal
+2018-0052,1,2018-05-18,20,avenida,15,-58.49820145,-34.59070093,peaton,pasajeros,peaton,masculino,78,fatal
+2018-0053,1,2018-05-20,2,calle,3,-58.41059280,-34.59939180,moto,auto,conductor,masculino,43,fatal
+2018-0054,1,2018-05-22,11,calle,12,-58.47969138,-34.57121563,peaton,bicicleta,peaton,femenino,86,fatal
+2018-0055,1,2018-05-29,7,avenida,3,-58.40351561,-34.61883916,moto,auto,conductor,masculino,21,fatal
+2018-0056,1,2018-06-02,13,avenida,9,-58.51973844,-34.63918987,peaton,pasajeros,peaton,femenino,69,fatal
+2018-0057,1,2018-06-03,3,calle,3,-58.39311376,-34.62163006,moto,pasajeros,conductor,masculino,33,fatal
+2018-0058,1,2018-06-03,6,avenida,15,-58.43531242,-34.59082159,moto,auto,conductor,masculino,26,fatal
+2018-0059,1,2018-06-08,6,avenida,5,-58.41178165,-34.63035454,moto,otro,conductor,masculino,54,fatal
+2018-0060,1,2018-06-08,12,avenida,1,-58.37048800,-34.60189492,peaton,pasajeros,peaton,masculino,51,fatal
+2018-0061,1,2018-06-10,11,calle,3,-58.39883882,-34.61964833,moto,moto,conductor,masculino,51,fatal
+2018-0062,1,2018-06-14,1,calle,6,-58.44110156,-34.62082399,peaton,cargas,peaton,masculino,32,fatal
+2018-0063,1,2018-06-16,21,avenida,1,-58.37093138,-34.59952725,peaton,pasajeros,peaton,femenino,28,fatal
+2018-0064,1,2018-06-25,1,avenida,7,-58.45855262,-34.63953253,auto,cargas,conductor,masculino,30,fatal
+2018-0065,1,2018-06-26,17,calle,1,-58.38161909,-34.59283447,moto,cargas,conductor,masculino,35,fatal
+2018-0066,1,2018-06-28,11,avenida,15,-58.45511899,-34.58698157,peaton,pasajeros,peaton,masculino,73,fatal
+2018-0067,1,2018-06-29,16,avenida,4,-58.37724226,-34.62973033,pasajeros,auto,pasajero_acompañante,femenino,81,fatal
+2018-0068,1,2018-07-01,9,avenida,7,-58.45546217,-34.62930339,moto,auto,conductor,masculino,21,fatal
+2018-0069,1,2018-07-04,21,avenida,2,-58.39897064,-34.59954925,bicicleta,pasajeros,ciclista,masculino,20,fatal
+2018-0070,1,2018-07-07,15,calle,3,-58.40917826,-34.62126274,moto,pasajeros,conductor,masculino,33,fatal
+2018-0071,1,2018-07-10,17,avenida,1,-58.36726348,-34.61099738,moto,cargas,conductor,masculino,,fatal
+2018-0072,1,2018-07-11,13,autopista,8,-58.48267426,-34.68454456,moto,cargas,conductor,masculino,27,fatal
+2018-0073,1,2018-07-11,15,avenida,4,-58.39546165,-34.65168841,peaton,cargas,peaton,femenino,67,fatal
+2018-0074,1,2018-07-14,6,avenida,7,-58.46941984,-34.63376545,auto,cargas,conductor,masculino,25,fatal
+2018-0075,1,2018-07-15,7,avenida,14,-58.40367321,-34.58129246,peaton,auto,peaton,masculino,23,fatal
+2018-0076,1,2018-07-16,9,calle,9,-58.52932872,-34.65014993,auto,cargas,conductor,masculino,73,fatal
+2018-0077,1,2018-07-16,23,calle,3,-58.40917826,-34.62126274,auto,cargas,conductor,masculino,58,fatal
+2018-0078,1,2018-07-21,6,calle,2,-58.41264127,-34.59473294,peaton,auto,peaton,masculino,27,fatal
+2018-0079,1,2018-07-23,7,gral paz,9,-58.50877521,-34.66977709,peaton,cargas,peaton,masculino,,fatal
+2018-0080,1,2018-07-25,22,avenida,9,-58.51232237,-34.65903530,peaton,auto,peaton,masculino,26,fatal
+2018-0081,1,2018-07-29,6,avenida,7,-58.44744156,-34.64567171,peaton,multiple,peaton,masculino,35,fatal
+2018-0082,1,2018-08-01,15,avenida,9,-58.49441273,-34.65869968,moto,cargas,conductor,femenino,17,fatal
+2018-0083,1,2018-08-02,5,gral paz,8,-58.47976785,-34.69153196,moto,cargas,conductor,masculino,,fatal
+2018-0084,1,2018-08-03,7,avenida,1,-58.36523349,-34.62260331,peaton,cargas,peaton,masculino,45,fatal
+2018-0085,2,2018-08-03,18,avenida,3,-58.39118948,-34.62704273,moto,pasajeros,pasajero_acompañante,femenino,22,fatal
+2018-0085,2,2018-08-03,18,avenida,3,-58.39118948,-34.62704273,moto,pasajeros,conductor,masculino,30,fatal
+2018-0086,1,2018-08-10,21,avenida,9,-58.49019551,-34.65015854,peaton,pasajeros,peaton,masculino,40,fatal
+2018-0087,1,2018-08-15,19,avenida,5,-58.41644362,-34.63023775,peaton,pasajeros,peaton,masculino,75,fatal
+2018-0088,1,2018-08-17,16,gral paz,12,-58.50073810,-34.54979510,moto,cargas,conductor,masculino,,fatal
+2018-0089,1,2018-08-17,17,avenida,4,-58.39626094,-34.63036565,peaton,pasajeros,peaton,masculino,80,fatal
+2018-0090,1,2018-08-18,10,avenida,8,-58.43284809,-34.67051543,moto,auto,conductor,masculino,27,fatal
+2018-0091,1,2018-08-19,18,autopista,9,-58.52280139,-34.63659934,auto,auto,pasajero_acompañante,femenino,23,fatal
+2018-0092,1,2018-08-20,8,avenida,14,-58.42336930,-34.59774487,moto,auto,conductor,masculino,23,fatal
+2018-0093,1,2018-08-20,8,calle,1,-58.38691681,-34.63105973,peaton,pasajeros,peaton,masculino,24,fatal
+2018-0094,1,2018-08-23,5,calle,14,-58.41169020,-34.58579880,moto,pasajeros,conductor,masculino,32,fatal
+2018-0095,1,2018-08-26,0,avenida,9,-58.46739825,-34.65117757,auto,auto,pasajero_acompañante,femenino,49,fatal
+2018-0096,1,2018-08-31,22,autopista,8,-58.44483258,-34.67152226,peaton,auto,peaton,masculino,39,fatal
+2018-0097,1,2018-09-02,10,avenida,8,-58.43254025,-34.66128115,auto,otro,conductor,femenino,35,fatal
+2018-0098,2,2018-09-09,5,gral paz,8,-58.47199387,-34.69640164,auto,auto,conductor,masculino,55,fatal
+2018-0098,2,2018-09-09,5,gral paz,8,-58.47199387,-34.69640164,auto,auto,pasajero_acompañante,masculino,54,fatal
+2018-0099,1,2018-09-12,14,avenida,7,-58.46411215,-34.62925068,peaton,pasajeros,peaton,masculino,18,fatal
+2018-0100,1,2018-09-20,10,avenida,1,-58.36217754,-34.62367156,moto,auto,,femenino,33,fatal
+2018-0101,1,2018-09-21,0,gral paz,12,-58.48098594,-34.54073130,auto,multiple,conductor,masculino,,fatal
+2018-0102,1,2018-09-21,0,calle,4,-58.41083404,-34.64640709,moto,auto,conductor,masculino,20,fatal
+2018-0103,1,2018-09-27,17,avenida,7,-58.44609828,-34.64446729,peaton,moto,peaton,masculino,1,fatal
+2018-0104,1,2018-10-01,8,autopista,4,-58.37709334,-34.64035082,moto,moto,conductor,masculino,22,fatal
+2018-0105,1,2018-10-03,18,avenida,7,-58.46963952,-34.63070603,peaton,pasajeros,peaton,femenino,56,fatal
+2018-0106,1,2018-10-04,22,avenida,13,-58.43674281,-34.55161027,moto,moto,conductor,masculino,27,fatal
+2018-0107,1,2018-10-06,14,avenida,3,-58.40596860,-34.61011987,peaton,pasajeros,peaton,femenino,62,fatal
+2018-0108,1,2018-10-09,14,avenida,1,-58.36154069,-34.60463618,moto,auto,conductor,masculino,37,fatal
+2018-0109,1,2018-10-10,22,avenida,1,-58.37062179,-34.60066507,peaton,pasajeros,peaton,masculino,34,fatal
+2018-0110,1,2018-10-13,3,avenida,15,-58.43220014,-34.60207186,peaton,moto,peaton,masculino,60,fatal
+2018-0111,1,2018-10-19,12,autopista,9,-58.46958442,-34.64949724,moto,cargas,conductor,masculino,28,fatal
+2018-0112,1,2018-10-24,9,calle,15,-58.44671397,-34.59970903,moto,cargas,conductor,femenino,28,fatal
+2018-0113,1,2018-10-25,11,calle,11,-58.47152163,-34.61474911,moto,cargas,conductor,masculino,20,fatal
+2018-0114,1,2018-10-30,2,avenida,1,-58.39032921,-34.61807951,moto,auto,conductor,masculino,23,fatal
+2018-0115,1,2018-10-31,12,calle,9,-58.52887773,-34.64297861,peaton,pasajeros,peaton,masculino,42,fatal
+2018-0116,1,2018-11-01,10,gral paz,8,-58.49371157,-34.67981324,peaton,cargas,peaton,masculino,48,fatal
+2018-0117,1,2018-11-04,8,avenida,9,-58.48266599,-34.66012327,moto,moto,conductor,masculino,30,fatal
+2018-0118,1,2018-11-05,14,avenida,3,-58.40612253,-34.60774301,peaton,moto,peaton,femenino,80,fatal
+2018-0119,1,2018-11-05,22,avenida,8,-58.43613623,-34.66292532,peaton,,peaton,femenino,32,fatal
+2018-0120,1,2018-11-09,13,avenida,12,-58.48250732,-34.57208238,peaton,auto,peaton,femenino,51,fatal
+2018-0121,1,2018-11-09,16,avenida,10,-58.49945705,-34.63743280,peaton,pasajeros,peaton,femenino,72,fatal
+2018-0122,1,2018-11-12,1,autopista,8,-58.47743966,-34.67233407,auto,auto,conductor,masculino,33,fatal
+2018-0123,1,2018-11-12,3,gral paz,9,-58.50251790,-34.67450313,auto,,conductor,masculino,25,fatal
+2018-0124,1,2018-11-15,19,autopista,9,-58.52144411,-34.63682499,cargas,cargas,conductor,masculino,44,fatal
+2018-0125,1,2018-11-16,21,avenida,4,-58.41650465,-34.65084045,peaton,pasajeros,peaton,masculino,29,fatal
+2018-0126,1,2018-11-18,12,gral paz,9,-58.52994219,-34.64055918,moto,auto,conductor,masculino,27,fatal
+2018-0127,1,2018-11-19,9,gral paz,12,-58.50993046,-34.56919739,moto,moto,conductor,masculino,29,fatal
+2018-0128,2,2018-11-25,4,gral paz,9,-58.52844623,-34.64592873,auto,pasajeros,pasajero_acompañante,masculino,49,fatal
+2018-0128,2,2018-11-25,4,gral paz,9,-58.52844623,-34.64592873,auto,pasajeros,pasajero_acompañante,femenino,39,fatal
+2018-0129,1,2018-11-28,4,avenida,15,-58.45021367,-34.58695347,moto,pasajeros,conductor,masculino,37,fatal
+2018-0130,1,2018-12-03,3,avenida,10,-58.49022072,-34.62770192,moto,pasajeros,conductor,masculino,,fatal
+2018-0131,1,2018-12-07,19,avenida,1,-58.36860866,-34.60106568,moto,cargas,conductor,masculino,29,fatal
+2018-0132,1,2018-12-12,8,autopista,2,-58.39490504,-34.57241534,peaton,cargas,peaton,masculino,70,fatal
+2018-0133,1,2018-12-12,14,avenida,7,-58.46963952,-34.63070603,peaton,cargas,peaton,femenino,60,fatal
+2018-0134,1,2018-12-12,21,avenida,7,-58.42349365,-34.64019887,peaton,moto,peaton,masculino,56,fatal
+2018-0135,1,2018-12-18,14,avenida,1,-58.37471802,-34.61265002,peaton,pasajeros,peaton,masculino,80,fatal
+2018-0136,1,2018-12-18,15,avenida,7,-58.46438789,-34.62913916,peaton,pasajeros,peaton,femenino,70,fatal
+2018-0137,1,2018-12-18,20,calle,1,-58.38481975,-34.61100424,moto,pasajeros,pasajero_acompañante,masculino,29,fatal
+2018-0138,1,2018-12-21,9,calle,10,-58.50751833,-34.62073702,pasajeros,pasajeros,pasajero_acompañante,femenino,79,fatal
+2018-0139,1,2018-12-22,6,calle,7,-58.44682986,-34.63888084,moto,moto,pasajero_acompañante,masculino,28,fatal
+2018-0140,1,2018-12-22,8,calle,1,-58.36004650,-34.61381341,auto,auto,conductor,masculino,78,fatal
+2018-0141,1,2018-12-22,17,avenida,5,-58.41509546,-34.62085945,peaton,moto,peaton,masculino,75,fatal
+2018-0142,1,2018-12-25,13,gral paz,12,-58.50997604,-34.57251072,cargas,pasajeros,pasajero_acompañante,masculino,32,fatal
+2018-0143,1,2018-12-29,5,avenida,10,-58.48606475,-34.64047818,moto,auto,conductor,masculino,22,fatal
+2019-0001,1,2019-01-08,8,avenida,2,-58.38526125,-34.57805810,moto,cargas,conductor,masculino,25,fatal
+2019-0002,1,2019-01-09,4,avenida,7,-58.45463662,-34.65082149,auto,cargas,conductor,masculino,32,fatal
+2019-0003,1,2019-01-12,8,avenida,15,-58.49121672,-34.59718073,moto,auto,conductor,masculino,23,fatal
+2019-0004,1,2019-01-14,19,avenida,9,-58.47325712,-34.65284605,auto,pasajeros,conductor,masculino,71,fatal
+2019-0005,1,2019-01-19,12,avenida,10,-58.52108101,-34.63382309,moto,cargas,conductor,masculino,43,fatal
+2019-0006,1,2019-01-23,5,avenida,14,-58.41652702,-34.55509606,peaton,auto,peaton,femenino,12,fatal
+2019-0007,1,2019-01-26,19,calle,5,-58.42891604,-34.61071660,moto,auto,conductor,masculino,35,fatal
+2019-0008,1,2019-01-30,22,gral paz,8,-58.47802293,-34.69156793,moto,multiple,conductor,masculino,42,fatal
+2019-0009,1,2019-01-31,14,avenida,1,-58.37564821,-34.62200207,moto,auto,conductor,masculino,34,fatal
+2019-0010,2,2019-02-02,7,avenida,14,-58.42668489,-34.56961468,peaton,auto,peaton,masculino,,fatal
+2019-0010,2,2019-02-02,7,avenida,14,-58.42668489,-34.56961468,peaton,auto,peaton,masculino,59,fatal
+2019-0011,1,2019-02-10,1,gral paz,9,-58.51839930,-34.66252488,peaton,auto,peaton,masculino,,fatal
+2019-0012,1,2019-02-17,3,avenida,8,-58.48432691,-34.67665828,moto,auto,conductor,masculino,31,fatal
+2019-0013,1,2019-02-20,7,calle,7,-58.43383830,-34.64457699,peaton,auto,peaton,masculino,39,fatal
+2019-0014,1,2019-02-20,17,calle,11,-58.51664939,-34.58657938,moto,objeto fijo,conductor,masculino,69,fatal
+2019-0015,1,2019-02-23,6,avenida,11,-58.49613012,-34.59703502,auto,objeto fijo,conductor,masculino,21,fatal
+2019-0016,1,2019-02-24,2,calle,4,-58.38313603,-34.63356284,moto,pasajeros,conductor,masculino,40,fatal
+2019-0017,1,2019-03-03,7,calle,3,-58.39914719,-34.61632317,auto,pasajeros,conductor,masculino,22,fatal
+2019-0018,1,2019-03-03,23,autopista,13,-58.44927253,-34.54048625,peaton,auto,peaton,femenino,29,fatal
+2019-0019,1,2019-03-06,12,avenida,13,-58.45049163,-34.55374003,moto,auto,conductor,masculino,,fatal
+2019-0020,1,2019-03-07,21,avenida,5,-58.41288952,-34.63572989,moto,auto,conductor,masculino,43,fatal
+2019-0021,1,2019-03-15,22,avenida,7,-58.45743597,-34.62561234,moto,auto,conductor,masculino,23,fatal
+2019-0022,1,2019-03-15,0,avenida,1,-58.39123782,-34.62352245,auto,,pasajero_acompañante,masculino,,fatal
+2019-0023,1,2019-03-16,8,gral paz,9,-58.52922765,-34.63637963,auto,objeto fijo,conductor,masculino,34,fatal
+2019-0024,1,2019-03-19,7,avenida,1,-58.37208118,-34.58541957,moto,cargas,conductor,masculino,32,fatal
+2019-0025,1,2019-03-22,13,calle,5,-58.41458534,-34.60937557,peaton,auto,peaton,masculino,27,fatal
+2019-0026,1,2019-03-28,7,avenida,8,-58.47976785,-34.69153196,peaton,pasajeros,peaton,masculino,,fatal
+2019-0027,1,2019-03-28,11,avenida,2,-58.39990285,-34.59511714,bicicleta,multiple,ciclista,masculino,37,fatal
+2019-0028,1,2019-04-06,9,avenida,11,-58.46051346,-34.60588536,peaton,pasajeros,peaton,femenino,,fatal
+2019-0029,1,2019-04-07,10,avenida,8,-58.47976785,-34.69153196,moto,objeto fijo,conductor,masculino,27,fatal
+2019-0030,1,2019-04-09,16,calle,7,-58.45457546,-34.62447891,moto,cargas,conductor,masculino,25,fatal
+2019-0031,1,2019-04-12,19,avenida,1,-58.36951669,-34.59832047,bicicleta,cargas,ciclista,masculino,20,fatal
+2019-0032,1,2019-04-16,11,avenida,11,-58.46415322,-34.60443790,peaton,auto,peaton,femenino,83,fatal
+2019-0033,1,2019-04-18,1,autopista,1,-58.36607137,-34.62150748,moto,,conductor,masculino,25,fatal
+2019-0034,1,2019-04-21,9,avenida,7,-58.45537373,-34.65093074,moto,objeto fijo,conductor,masculino,,fatal
+2019-0035,1,2019-04-23,14,calle,1,-58.37942637,-34.60053054,peaton,bicicleta,peaton,femenino,75,fatal
+2019-0036,1,2019-04-26,22,calle,6,-58.43680440,-34.62147504,moto,auto,conductor,masculino,34,fatal
+2019-0037,1,2019-05-01,23,avenida,3,-58.40778291,-34.61971907,moto,auto,conductor,masculino,17,fatal
+2019-0038,1,2019-05-04,14,avenida,13,-58.45212523,-34.54628513,peaton,moto,peaton,femenino,42,fatal
+2019-0039,1,2019-05-09,3,avenida,7,-58.46749188,-34.63551751,moto,auto,conductor,masculino,28,fatal
+2019-0040,1,2019-05-09,12,calle,7,-58.44263580,-34.63679732,moto,,conductor,masculino,44,fatal
+2019-0041,1,2019-05-11,20,avenida,9,-58.51140289,-34.65846419,auto,multiple,pasajero_acompañante,femenino,78,fatal
+2019-0042,1,2019-05-14,15,calle,1,-58.38211431,-34.62465368,peaton,pasajeros,peaton,masculino,39,fatal
+2019-0043,1,2019-05-21,9,avenida,1,-58.36951669,-34.59832047,bicicleta,cargas,ciclista,femenino,,fatal
+2019-0044,1,2019-05-27,12,avenida,5,-58.41635217,-34.62036547,peaton,moto,peaton,femenino,77,fatal
+2019-0045,1,2019-06-03,7,avenida,14,-58.41316147,-34.57579669,moto,cargas,conductor,masculino,33,fatal
+2019-0046,1,2019-06-04,9,gral paz,13,-58.47617802,-34.53825652,moto,auto,pasajero_acompañante,femenino,26,fatal
+2019-0047,1,2019-06-06,10,avenida,4,-58.38641783,-34.63330028,peaton,cargas,peaton,masculino,76,fatal
+2019-0048,1,2019-06-07,7,avenida,6,-58.45322169,-34.62038137,moto,cargas,conductor,masculino,32,fatal
+2019-0049,1,2019-06-08,9,calle,13,-58.45849057,-34.56166498,peaton,cargas,peaton,femenino,72,fatal
+2019-0050,1,2019-06-08,23,avenida,14,-58.41829559,-34.59411677,moto,cargas,conductor,masculino,21,fatal
+2019-0051,1,2019-06-11,10,calle,4,-58.36376488,-34.63832093,moto,auto,conductor,masculino,41,fatal
+2019-0053,1,2019-06-14,17,avenida,8,-58.46442668,-34.66004784,auto,auto,pasajero_acompañante,masculino,49,fatal
+2019-0054,1,2019-06-20,3,calle,15,-58.48222035,-34.58428769,moto,objeto fijo,conductor,masculino,21,fatal
+2019-0055,1,2019-06-20,19,avenida,1,-58.36819005,-34.60283208,moto,pasajeros,conductor,masculino,47,fatal
+2019-0056,1,2019-06-29,17,avenida,7,-58.45877601,-34.62330939,peaton,auto,peaton,femenino,75,fatal
+2019-0057,1,2019-07-05,19,calle,13,-58.44196498,-34.55760517,peaton,auto,peaton,femenino,63,fatal
+2019-0058,1,2019-07-10,9,autopista,10,-58.50622631,-34.63627822,moto,pasajeros,conductor,masculino,39,fatal
+2019-0059,1,2019-07-13,22,calle,1,-58.38410880,-34.63099197,moto,pasajeros,conductor,masculino,30,fatal
+2019-0060,1,2019-07-17,11,avenida,10,-58.48100602,-34.63504312,peaton,auto,peaton,femenino,78,fatal
+2019-0061,1,2019-07-17,18,calle,13,-58.45200171,-34.55781320,peaton,pasajeros,peaton,femenino,58,fatal
+2019-0062,1,2019-08-01,23,avenida,13,-58.44462132,-34.56201105,peaton,pasajeros,peaton,femenino,60,fatal
+2019-0063,1,2019-08-04,1,avenida,15,-58.45220688,-34.58711712,moto,pasajeros,pasajero_acompañante,masculino,,fatal
+2019-0064,1,2019-08-06,3,avenida,7,-58.45962210,-34.62245140,moto,auto,conductor,masculino,20,fatal
+2019-0065,1,2019-08-08,16,calle,4,-58.41970850,-34.65414867,peaton,pasajeros,peaton,femenino,55,fatal
+2019-0066,1,2019-08-11,21,avenida,7,-58.44187596,-34.64938031,peaton,auto,peaton,masculino,40,fatal
+2019-0067,1,2019-08-14,15,calle,10,-58.49101637,-34.64276621,moto,cargas,conductor,masculino,35,fatal
+2019-0068,1,2019-08-14,17,avenida,8,-58.42493829,-34.66256502,moto,moto,conductor,masculino,53,fatal
+2019-0069,1,2019-08-17,5,avenida,4,-58.40489318,-34.62930162,moto,auto,conductor,masculino,43,fatal
+2019-0070,1,2019-08-22,12,avenida,14,-58.42686680,-34.59217875,moto,bicicleta,conductor,masculino,25,fatal
+2019-0071,1,2019-08-27,11,avenida,9,-58.47961100,-34.65620398,peaton,cargas,peaton,masculino,,fatal
+2019-0072,1,2019-08-28,6,avenida,10,-58.47439934,-34.63524207,auto,auto,conductor,masculino,22,fatal
+2019-0073,1,2019-08-29,1,avenida,15,-58.46711912,-34.57926018,auto,objeto fijo,conductor,masculino,29,fatal
+2019-0074,1,2019-08-29,9,autopista,13,-58.46514781,-34.53465378,moto,cargas,conductor,masculino,35,fatal
+2019-0075,1,2019-08-30,23,calle,4,-58.37571078,-34.65584079,moto,pasajeros,conductor,masculino,31,fatal
+2019-0076,1,2019-09-05,18,autopista,4,-58.37157668,-34.65429986,moto,cargas,conductor,femenino,29,fatal
+2019-0077,1,2019-09-08,3,avenida,14,-58.39811256,-34.58070186,peaton,auto,peaton,femenino,28,fatal
+2019-0078,1,2019-09-12,8,avenida,4,-58.41125934,-34.65417740,peaton,cargas,peaton,femenino,72,fatal
+2019-0079,1,2019-09-17,5,calle,5,-58.41822901,-34.61866836,moto,pasajeros,conductor,masculino,57,fatal
+2019-0080,1,2019-09-17,18,gral paz,13,-58.47617802,-34.53825652,peaton,moto,peaton,masculino,76,fatal
+2019-0081,1,2019-09-23,16,avenida,15,-58.46141281,-34.58623761,peaton,pasajeros,peaton,masculino,67,fatal
+2019-0082,1,2019-09-25,7,avenida,8,-58.42985146,-34.66119740,bicicleta,cargas,ciclista,masculino,47,fatal
+2019-0083,1,2019-09-26,8,calle,9,-58.48457413,-34.65839090,auto,auto,conductor,masculino,73,fatal
+2019-0084,1,2019-09-27,11,calle,7,-58.46572884,-34.63628186,bicicleta,cargas,ciclista,femenino,40,fatal
+2019-0085,1,2019-10-09,22,calle,10,-58.49261744,-34.63419130,bicicleta,tren,ciclista,masculino,20,fatal
+2019-0086,1,2019-10-15,14,avenida,15,-58.45283186,-34.58841560,moto,pasajeros,conductor,masculino,29,fatal
+2019-0087,1,2019-10-21,21,avenida,12,-58.47973681,-34.57418656,moto,moto,conductor,masculino,41,fatal
+2019-0088,1,2019-10-22,20,avenida,4,-58.40623949,-34.65076549,peaton,pasajeros,peaton,masculino,27,fatal
+2019-0089,1,2019-10-23,15,avenida,4,-58.36244648,-34.63107887,peaton,cargas,peaton,femenino,92,fatal
+2019-0090,1,2019-10-24,18,avenida,9,-58.49962423,-34.64868027,peaton,moto,peaton,masculino,67,fatal
+2019-0091,1,2019-11-01,20,avenida,15,-58.44551437,-34.59559816,peaton,pasajeros,peaton,masculino,35,fatal
+2019-0092,1,2019-11-03,10,calle,4,-58.35608181,-34.63420319,peaton,pasajeros,peaton,masculino,37,fatal
+2019-0093,1,2019-11-13,11,avenida,11,-58.46483679,-34.60907662,bicicleta,otro,ciclista,masculino,16,fatal
+2019-0094,1,2019-11-18,14,calle,15,-58.44368628,-34.59724326,moto,otro,pasajero_acompañante,femenino,,fatal
+2019-0095,1,2019-11-20,15,autopista,1,-58.37864583,-34.62907067,moto,cargas,conductor,masculino,,fatal
+2019-0096,1,2019-11-22,19,avenida,1,-58.37560352,-34.62726382,peaton,pasajeros,peaton,masculino,73,fatal
+2019-0097,1,2019-11-25,8,autopista,9,-58.47721439,-34.64815069,moto,multiple,pasajero_acompañante,femenino,23,fatal
+2019-0098,1,2019-11-25,14,avenida,15,-58.45134029,-34.58984288,pasajeros,pasajeros,pasajero_acompañante,femenino,61,fatal
+2019-0100,1,2019-12-05,17,avenida,12,-58.49040794,-34.58368803,moto,auto,conductor,masculino,38,fatal
+2019-0101,1,2019-12-17,4,avenida,4,-58.42102679,-34.64991178,moto,moto,conductor,masculino,25,fatal
+2019-0102,1,2019-12-17,14,calle,9,-58.52219407,-34.64143926,moto,auto,conductor,masculino,18,fatal
+2019-0103,1,2019-12-18,,gral paz,11,-58.52169422,-34.59471640,moto,moto,conductor,masculino,24,fatal
+2019-0104,1,2019-12-21,4,avenida,10,-58.47460416,-34.63206174,moto,auto,pasajero_acompañante,femenino,23,fatal
+2019-0105,1,2019-05-05,11,avenida,10,-58.50512382,-34.61520391,peaton,auto,peaton,femenino,82,fatal
+2020-0001,1,2020-01-04,10,calle,15,-58.43910409,-34.59213355,peaton,auto,peaton,femenino,87,fatal
+2020-0002,1,2020-01-05,20,avenida,7,-58.45019436,-34.64646409,moto,objeto fijo,conductor,masculino,36,fatal
+2020-0003,1,2020-01-11,6,avenida,3,-58.39337644,-34.60927582,peaton,auto,peaton,masculino,44,fatal
+2020-0004,1,2020-01-14,21,avenida,1,-58.39055614,-34.60919284,peaton,pasajeros,peaton,masculino,82,fatal
+2020-0005,1,2020-01-14,6,avenida,3,-58.41036975,-34.62477021,moto,pasajeros,conductor,masculino,25,fatal
+2020-0006,1,2020-01-20,12,avenida,8,-58.44925765,-34.65412546,moto,cargas,conductor,masculino,23,fatal
+2020-0007,1,2020-01-27,0,calle,1,-58.38156850,-34.61648696,peaton,moto,peaton,masculino,52,fatal
+2020-0008,1,2020-01-30,7,avenida,2,-58.40662899,-34.59804521,moto,cargas,conductor,masculino,49,fatal
+2020-0009,1,2020-02-04,14,calle,5,-58.41985649,-34.60600850,peaton,auto,peaton,masculino,48,fatal
+2020-0010,1,2020-02-08,5,avenida,1,-58.38099833,-34.62214953,moto,objeto fijo,conductor,masculino,,fatal
+2020-0011,1,2020-02-12,11,calle,5,-58.41803309,-34.61823178,moto,cargas,conductor,masculino,31,fatal
+2020-0012,1,2020-02-18,21,calle,3,-58.40604003,-34.61783553,peaton,moto,peaton,femenino,66,fatal
+2020-0013,1,2020-02-20,12,avenida,15,-58.47549929,-34.57994061,peaton,moto,peaton,femenino,58,fatal
+2020-0014,1,2020-02-27,2,calle,11,-58.51398484,-34.61600366,moto,pasajeros,conductor,masculino,,fatal
+2020-0015,1,2020-02-28,14,avenida,1,-58.36797542,-34.62519403,moto,pasajeros,conductor,masculino,29,fatal
+2020-0016,1,2020-02-29,13,avenida,1,-58.37133616,-34.59879316,peaton,pasajeros,peaton,masculino,68,fatal
+2020-0017,1,2020-03-05,23,avenida,3,-58.39613805,-34.61413568,peaton,auto,peaton,masculino,,fatal
+2020-0018,1,2020-03-09,14,avenida,13,-58.44903073,-34.54200276,moto,objeto fijo,conductor,masculino,31,fatal
+2020-0019,1,2020-03-10,21,calle,5,-58.41972364,-34.62846670,peaton,auto,peaton,femenino,80,fatal
+2020-0020,1,2020-03-13,17,avenida,3,-58.40571596,-34.60557123,peaton,moto,peaton,femenino,74,fatal
+2020-0021,1,2020-03-14,16,calle,2,-58.41451590,-34.59488319,peaton,auto,peaton,femenino,87,fatal
+2020-0022,1,2020-04-07,6,autopista,9,-58.47297505,-34.66245085,auto,cargas,pasajero_acompañante,masculino,44,fatal
+2020-0023,1,2020-04-09,18,avenida,4,-58.35791192,-34.63695178,auto,cargas,conductor,masculino,44,fatal
+2020-0024,1,2020-04-24,7,calle,9,-58.50801713,-34.65177305,auto,auto,conductor,masculino,53,fatal
+2020-0025,1,2020-05-12,5,avenida,3,-58.40258477,-34.60975108,peaton,auto,peaton,masculino,,fatal
+2020-0026,1,2020-05-17,6,autopista,14,-58.45757936,-34.53895793,moto,objeto fijo,conductor,masculino,28,fatal
+2020-0027,1,2020-05-18,8,avenida,8,-58.48267426,-34.68454456,peaton,cargas,peaton,masculino,76,fatal
+2020-0028,1,2020-05-19,10,avenida,15,-58.44248936,-34.60221948,peaton,pasajeros,peaton,masculino,91,fatal
+2020-0029,1,2020-06-10,14,gral paz,9,-58.52909134,-34.63886726,peaton,pasajeros,peaton,masculino,80,fatal
+2020-0030,1,2020-06-16,15,avenida,6,-58.45158942,-34.60646580,moto,multiple,conductor,masculino,40,fatal
+2020-0031,1,2020-06-30,8,avenida,9,-58.49344309,-34.65788529,moto,cargas,conductor,masculino,29,fatal
+2020-0032,1,2020-07-10,23,avenida,15,-58.44259166,-34.59635137,moto,auto,conductor,masculino,21,fatal
+2020-0033,1,2020-07-19,6,gral paz,13,-58.46743471,-34.53476874,auto,objeto fijo,conductor,masculino,32,fatal
+2020-0034,1,2020-08-02,3,calle,3,-58.41178158,-34.60922259,peaton,auto,peaton,femenino,,fatal
+2020-0035,1,2020-08-04,5,autopista,7,-58.45068621,-34.63638927,moto,pasajeros,conductor,masculino,40,fatal
+2020-0036,1,2020-08-07,18,avenida,14,-58.42016954,-34.58778790,peaton,moto,peaton,masculino,72,fatal
+2020-0037,1,2020-08-29,4,avenida,8,-58.43850413,-34.65554754,peaton,auto,peaton,masculino,38,fatal
+2020-0038,2,2020-08-30,4,avenida,14,-58.40617526,-34.58345898,auto,auto,conductor,masculino,46,fatal
+2020-0038,2,2020-08-30,4,avenida,14,-58.40617526,-34.58345898,auto,auto,conductor,masculino,64,fatal
+2020-0039,1,2020-09-01,19,calle,9,-58.4830962,-34.67140515,peaton,cargas,peaton,masculino,44,fatal
+2020-0040,1,2020-09-12,3,avenida,2,-58.38526125,-34.57805810,auto,objeto fijo,conductor,masculino,,fatal
+2020-0041,1,2020-09-28,1,avenida,7,-58.44750470,-34.63491705,moto,pasajeros,conductor,masculino,34,fatal
+2020-0042,1,2020-09-29,17,avenida,8,-58.46745752,-34.68192648,peaton,pasajeros,peaton,femenino,53,fatal
+2020-0043,1,2020-09-30,17,avenida,1,-58.37202621,-34.59717942,peaton,pasajeros,peaton,masculino,64,fatal
+2020-0044,1,2020-10-05,0,avenida,6,-58.42779702,-34.62207347,auto,auto,conductor,masculino,43,fatal
+2020-0045,1,2020-10-19,3,gral paz,8,-58.46244952,-34.70524971,auto,cargas,conductor,masculino,50,fatal
+2020-0046,1,2020-10-27,21,avenida,11,-58.48440160,-34.60776782,moto,moto,conductor,masculino,41,fatal
+2020-0047,1,2020-10-27,14,autopista,9,-58.46668375,-34.65174801,peaton,cargas,peaton,masculino,15,fatal
+2020-0048,1,2020-10-29,20,avenida,15,-58.44958780,-34.59322448,moto,objeto fijo,conductor,masculino,41,fatal
+2020-0049,1,2020-10-30,20,avenida,1,-58.37533517,-34.59276462,peaton,auto,peaton,masculino,36,fatal
+2020-0050,1,2020-11-01,22,avenida,14,-58.42525456,-34.57866344,peaton,moto,peaton,femenino,28,fatal
+2020-0051,1,2020-11-05,0,avenida,10,-58.48493828,-34.62981124,moto,auto,conductor,masculino,49,fatal
+2020-0052,1,2020-11-07,6,avenida,3,-58.40480504,-34.60183884,bicicleta,cargas,ciclista,masculino,44,fatal
+2020-0053,1,2020-11-09,3,avenida,4,-58.41125934,-34.65417740,auto,auto,pasajero_acompañante,masculino,27,fatal
+2020-0054,1,2020-11-19,9,calle,4,-58.39956546,-34.62977080,bicicleta,auto,ciclista,masculino,59,fatal
+2020-0055,1,2020-11-19,12,avenida,12,-58.49005682,-34.57868970,peaton,cargas,peaton,masculino,91,fatal
+2020-0056,1,2020-11-21,13,gral paz,8,-58.47064556,-34.69843756,moto,cargas,conductor,femenino,34,fatal
+2020-0057,1,2020-11-23,7,avenida,11,-58.47501560,-34.61945902,peaton,auto,peaton,masculino,84,fatal
+2020-0058,1,2020-11-24,16,avenida,10,-58.48727942,-34.63652467,peaton,auto,peaton,masculino,57,fatal
+2020-0059,1,2020-12-01,6,calle,1,-58.37951690,-34.62794241,peaton,pasajeros,peaton,femenino,49,fatal
+2020-0060,1,2020-12-03,20,avenida,9,-58.47750832,-34.65672199,peaton,moto,peaton,femenino,69,fatal
+2020-0061,1,2020-12-03,14,autopista,13,-58.44927253,-34.54048625,moto,cargas,conductor,masculino,45,fatal
+2020-0062,1,2020-12-04,17,calle,3,-58.39246272,-34.61253541,bicicleta,pasajeros,ciclista,masculino,47,fatal
+2020-0063,2,2020-12-05,7,calle,11,-58.52783814,-34.61047001,peaton_moto,moto,peaton,masculino,38,fatal
+2020-0063,2,2020-12-05,7,calle,11,-58.52783814,-34.61047001,peaton_moto,moto,pasajero_acompañante,masculino,21,fatal
+2020-0065,1,2020-12-05,16,gral paz,12,-58.49332664,-34.54836855,moto,auto,conductor,masculino,24,fatal
+2020-0066,1,2020-12-07,4,autopista,10,-58.50178784,-34.63593897,moto,objeto fijo,conductor,masculino,27,fatal
+2020-0067,1,2020-12-11,22,avenida,4,-58.41657793,-34.65476216,peaton,pasajeros,peaton,masculino,51,fatal
+2020-0068,1,2020-12-12,20,avenida,2,-58.39731474,-34.58307887,moto,auto,conductor,masculino,71,fatal
+2020-0069,1,2020-12-15,5,avenida,1,-58.38746381,-34.61790839,moto,pasajeros,pasajero_acompañante,masculino,25,fatal
+2020-0070,1,2020-12-17,15,avenida,2,-58.39189441,-34.59176378,peaton,pasajeros,peaton,femenino,81,fatal
+2020-0071,1,2020-12-17,23,avenida,7,-58.46749188,-34.63551751,peaton,auto,peaton,masculino,4,fatal
+2020-0072,1,2020-12-19,3,avenida,3,-58.40280471,-34.62113271,bicicleta,auto,ciclista,masculino,42,fatal
+2020-0073,1,2020-12-20,7,avenida,8,-58.44451316,-34.68475866,moto,objeto fijo,conductor,masculino,56,fatal
+2020-0074,1,2020-12-20,21,avenida,7,-58.47110424,-34.62742408,auto,auto,conductor,masculino,39,fatal
+2020-0075,1,2020-12-23,14,avenida,1,-58.38220928,-34.60373898,peaton,pasajeros,peaton,masculino,23,fatal
+2020-0076,1,2020-12-24,12,avenida,10,-58.49794468,-34.61565025,auto,pasajeros,conductor,femenino,78,fatal
+2020-0077,2,2020-12-25,6,avenida,15,-58.47220945,-34.60111373,moto,auto,conductor,femenino,30,fatal
+2020-0077,2,2020-12-25,6,avenida,15,-58.47220945,-34.60111373,moto,auto,pasajero_acompañante,femenino,24,fatal
+2020-0078,1,2020-12-25,5,calle,7,-58.43706741,-34.63217813,bicicleta,pasajeros,ciclista,masculino,26,fatal
+2020-0079,1,2020-12-27,4,gral paz,12,-58.49332664,-34.54836855,moto,objeto fijo,conductor,masculino,28,fatal
+2021-0001,1,2021-01-06,18,autopista,1,-58.37960727,-34.62622851,moto,auto,conductor,masculino,36,fatal
+2021-0002,1,2021-01-07,10,avenida,9,-58.51061062,-34.64972472,moto,cargas,conductor,femenino,47,fatal
+2021-0003,1,2021-01-10,7,autopista,7,-58.43052224,-34.62941648,moto,objeto fijo,conductor,masculino,27,fatal
+2021-0004,1,2021-01-11,9,avenida,5,-58.41455544,-34.63866836,peaton,cargas,peaton,femenino,61,fatal
+2021-0005,1,2021-01-11,21,avenida,9,-58.46774439,-34.64730145,peaton,auto,peaton,masculino,73,fatal
+2021-0006,1,2021-01-12,21,autopista,14,-58.40786274,-34.56726817,moto,cargas,pasajero_acompañante,femenino,23,fatal
+2021-0007,1,2021-01-18,10,avenida,15,-58.48744301,-34.58622275,moto,moto,conductor,masculino,84,fatal
+2021-0008,1,2021-01-22,23,avenida,4,-58.41657793,-34.65476216,peaton,pasajeros,peaton,masculino,28,fatal
+2021-0009,1,2021-01-23,5,avenida,6,-58.45351111,-34.61134937,moto,objeto fijo,conductor,masculino,31,fatal
+2021-0010,1,2021-01-23,8,gral paz,12,-58.50073810,-34.54979510,moto,auto,conductor,masculino,28,fatal
+2021-0011,1,2021-01-27,1,avenida,2,-58.39144148,-34.59564871,peaton,auto,peaton,masculino,21,fatal
+2021-0012,1,2021-01-29,20,autopista,8,-58.48191128,-34.68385968,peaton,auto,peaton,masculino,,fatal
+2021-0013,1,2021-01-31,6,avenida,10,-58.48727942,-34.63652467,moto,objeto fijo,conductor,masculino,41,fatal
+2021-0014,1,2021-02-02,0,avenida,15,-58.48328708,-34.59779521,peaton,auto,peaton,masculino,28,fatal
+2021-0015,1,2021-02-06,3,avenida,15,-58.49018543,-34.59724990,moto,objeto fijo,conductor,masculino,26,fatal
+2021-0016,1,2021-02-14,5,avenida,8,-58.47230127,-34.68482689,auto,objeto fijo,conductor,masculino,22,fatal
+2021-0017,1,2021-02-17,4,avenida,1,-58.38262614,-34.63168269,moto,pasajeros,conductor,masculino,33,fatal
+2021-0018,1,2021-02-20,19,calle,3,-58.41047268,-34.60793518,peaton,auto,peaton,masculino,36,fatal
+2021-0019,1,2021-02-21,1,avenida,12,-58.49659234,-34.56353635,moto,objeto fijo,conductor,masculino,30,fatal
+2021-0020,1,2021-02-21,15,calle,5,-58.42462955,-34.60727189,peaton,cargas,peaton,femenino,,fatal
+2021-0021,1,2021-02-26,5,calle,3,-58.41168345,-34.61185625,moto,objeto fijo,conductor,masculino,39,fatal
+2021-0022,1,2021-02-28,12,avenida,13,-58.45157681,-34.55217303,pasajeros,,pasajero_acompañante,masculino,68,fatal
+2021-0023,1,2021-03-01,9,autopista,4,-58.3649056,-34.62297422,moto,cargas,conductor,masculino,24,fatal
+2021-0024,1,2021-03-03,16,avenida,9,-58.49573651,-34.67006054,bicicleta,cargas,ciclista,masculino,5,fatal
+2021-0025,1,2021-03-11,3,gral paz,8,-58.48695354,-34.68795245,moto,otro,conductor,masculino,37,fatal
+2021-0026,1,2021-03-15,2,autopista,4,-58.37562539,-34.64449357,moto,objeto fijo,conductor,masculino,36,fatal
+2021-0027,1,2021-03-16,15,gral paz,12,-58.49491054,-34.54795581,moto,cargas,conductor,femenino,19,fatal
+2021-0028,1,2021-03-29,17,avenida,7,-58.44147621,-34.64357704,peaton,pasajeros,peaton,masculino,,fatal
+2021-0029,1,2021-03-31,18,avenida,7,-58.46899119,-34.63215432,auto,auto,conductor,masculino,26,fatal
+2021-0030,1,2021-04-03,18,calle,4,-58.38685612,-34.63455776,peaton,pasajeros,peaton,masculino,36,fatal
+2021-0031,1,2021-04-07,10,avenida,1,-58.38113667,-34.61765323,peaton,cargas,peaton,femenino,68,fatal
+2021-0032,1,2021-04-10,19,autopista,13,-58.44112678,-34.54538956,peaton,moto,peaton,masculino,60,fatal
+2021-0033,1,2021-04-14,17,autopista,5,-58.41595919,-34.62743346,auto,objeto fijo,conductor,masculino,33,fatal
+2021-0034,1,2021-04-19,14,avenida,4,-58.40184094,-34.64546845,moto,cargas,pasajero_acompañante,femenino,26,fatal
+2021-0035,1,2021-05-03,9,avenida,8,-58.44642231,-34.65679806,moto,cargas,conductor,masculino,24,fatal
+2021-0036,1,2021-05-09,6,gral paz,11,-58.52340614,-34.59798754,moto,objeto fijo,conductor,masculino,36,fatal
+2021-0037,1,2021-05-11,7,avenida,13,-58.46649069,-34.56219075,peaton,pasajeros,peaton,femenino,58,fatal
+2021-0038,1,2021-05-14,11,avenida,14,-58.42653328,-34.57816791,moto,cargas,conductor,femenino,44,fatal
+2021-0039,1,2021-05-15,12,avenida,9,-58.50407099,-34.65303372,bicicleta,auto,ciclista,masculino,86,fatal
+2021-0040,1,2021-05-20,5,gral paz,13,-58.46743471,-34.53476874,moto,auto,conductor,masculino,27,fatal
+2021-0041,1,2021-05-20,8,avenida,14,-58.40986646,-34.57728060,peaton,pasajeros,peaton,masculino,75,fatal
+2021-0042,1,2021-05-21,5,avenida,9,-58.51739138,-34.63931792,peaton,pasajeros,peaton,masculino,39,fatal
+2021-0043,1,2021-05-22,18,avenida,9,-58.50719962,-34.65556223,peaton,auto,peaton,masculino,50,fatal
+2021-0044,1,2021-05-25,2,avenida,9,-58.46712311,-34.64600222,moto,objeto fijo,pasajero_acompañante,masculino,21,fatal
+2021-0045,1,2021-05-26,17,autopista,4,-58.37709334,-34.64035082,moto,multiple,conductor,masculino,22,fatal
+2021-0046,1,2021-05-31,2,avenida,15,-58.46033141,-34.58569883,auto,objeto fijo,pasajero_acompañante,masculino,20,fatal
+2021-0047,1,2021-06-02,16,avenida,4,-58.42190745,-34.65633192,moto,auto,conductor,masculino,59,fatal
+2021-0048,1,2021-06-03,9,avenida,12,-58.49026573,-34.56981410,bicicleta,auto,ciclista,masculino,44,fatal
+2021-0049,1,2021-06-03,20,avenida,8,-58.45410344,-34.66902702,auto,auto,conductor,masculino,74,fatal
+2021-0050,1,2021-06-10,13,avenida,13,-58.44751621,-34.55719892,moto,pasajeros,conductor,masculino,56,fatal
+2021-0051,1,2021-06-15,19,avenida,4,-58.42040352,-34.66005171,peaton,cargas,peaton,masculino,73,fatal
+2021-0052,1,2021-06-20,5,gral paz,8,-58.49530249,-34.68010798,moto,objeto fijo,pasajero_acompañante,femenino,19,fatal
+2021-0053,1,2021-06-20,12,avenida,15,-58.44399875,-34.59477360,peaton,bicicleta,peaton,masculino,58,fatal
+2021-0054,1,2021-06-22,14,calle,4,-58.42759813,-34.65463857,moto,cargas,conductor,masculino,41,fatal
+2021-0055,1,2021-06-29,12,avenida,3,-58.40547222,-34.60456293,moto,cargas,pasajero_acompañante,masculino,47,fatal
+2021-0056,1,2021-07-09,23,avenida,4,-58.42473018,-34.65008280,bicicleta,auto,ciclista,masculino,60,fatal
+2021-0057,1,2021-07-10,23,autopista,2,-58.39257023,-34.57563957,auto,objeto fijo,conductor,masculino,46,fatal
+2021-0058,1,2021-07-21,0,gral paz,12,-58.48941042,-34.54596153,peaton,auto,peaton,masculino,24,fatal
+2021-0059,1,2021-07-22,1,avenida,3,-58.39640740,-34.62783085,auto,objeto fijo,pasajero_acompañante,femenino,44,fatal
+2021-0060,1,2021-07-22,12,avenida,5,-58.41971993,-34.61112240,peaton,pasajeros,peaton,femenino,80,fatal
+2021-0061,1,2021-07-24,9,avenida,4,-58.40544588,-34.65012801,peaton,cargas,peaton,femenino,55,fatal
+2021-0062,1,2021-07-27,7,avenida,4,-58.42003882,-34.64645957,auto,cargas,conductor,masculino,73,fatal
+2021-0063,1,2021-08-02,4,avenida,7,-58.46851293,-34.63348678,auto,auto,pasajero_acompañante,femenino,31,fatal
+2021-0064,1,2021-08-02,20,gral paz,9,-58.52931141,-34.65422917,peaton,cargas,peaton,masculino,37,fatal
+2021-0065,1,2021-08-06,8,avenida,6,-58.42675754,-34.62699730,peaton,pasajeros,peaton,femenino,63,fatal
+2021-0066,1,2021-08-06,20,avenida,11,-58.52933723,-34.61098186,peaton,pasajeros,peaton,masculino,59,fatal
+2021-0067,1,2021-08-08,9,autopista,1,-58.37910943,-34.62764718,moto,objeto fijo,conductor,masculino,27,fatal
+2021-0068,1,2021-08-15,6,avenida,11,-58.52161176,-34.61164474,moto,objeto fijo,conductor,masculino,39,fatal
+2021-0069,1,2021-08-20,17,avenida,14,-58.41354692,-34.58697680,peaton,auto,peaton,masculino,17,fatal
+2021-0070,1,2021-08-28,8,avenida,8,-58.43960781,-34.65470804,moto,cargas,conductor,masculino,31,fatal
+2021-0071,1,2021-08-31,16,calle,3,-58.40454610,-34.60003693,peaton,moto,peaton,masculino,88,fatal
+2021-0072,1,2021-09-01,19,avenida,2,-58.39303911,-34.59871111,peaton,auto,peaton,femenino,57,fatal
+2021-0073,1,2021-09-18,12,avenida,2,-58.39391034,-34.58405348,bicicleta,auto,ciclista,femenino,76,fatal
+2021-0074,1,2021-09-20,15,gral paz,12,-58.50073810,-34.54979510,moto,multiple,conductor,masculino,55,fatal
+2021-0075,1,2021-09-21,14,calle,1,-58.38281301,-34.62786038,peaton,cargas,peaton,masculino,65,fatal
+2021-0076,1,2021-10-16,6,avenida,7,-58.43980799,-34.65094083,moto,objeto fijo,conductor,masculino,31,fatal
+2021-0077,1,2021-10-18,7,avenida,6,-58.44402387,-34.62933109,moto,cargas,conductor,femenino,31,fatal
+2021-0078,1,2021-10-23,6,avenida,6,-58.42779702,-34.62207347,moto,pasajeros,conductor,masculino,22,fatal
+2021-0079,1,2021-10-25,3,calle,3,-58.40944147,-34.60097942,peaton,auto,peaton,masculino,,fatal
+2021-0080,1,2021-10-28,16,avenida,1,-58.38277479,-34.59430160,moto,auto,conductor,masculino,32,fatal
+2021-0081,1,2021-11-02,13,autopista,4,-58.37627355,-34.63800916,moto,cargas,conductor,masculino,26,fatal
+2021-0082,1,2021-11-06,4,autopista,3,-58.39591856,-34.62453459,moto,auto,conductor,masculino,38,fatal
+2021-0083,1,2021-11-09,0,avenida,13,-58.45829717,-34.56015762,moto,auto,conductor,masculino,30,fatal
+2021-0084,1,2021-11-11,3,avenida,9,-58.49142611,-34.64584795,auto,objeto fijo,conductor,masculino,32,fatal
+2021-0085,1,2021-11-20,18,gral paz,12,-58.51271409,-34.57786555,moto,objeto fijo,conductor,masculino,49,fatal
+2021-0086,1,2021-11-25,10,avenida,6,-58.44864864,-34.62352826,peaton,pasajeros,peaton,masculino,75,fatal
+2021-0087,1,2021-11-27,11,calle,1,-58.37795815,-34.59167894,peaton,bicicleta,peaton,femenino,73,fatal
+2021-0088,1,2021-12-01,15,calle,13,-58.45531707,-34.55555257,moto,auto,conductor,masculino,45,fatal
+2021-0089,1,2021-12-02,1,avenida,11,-58.47633683,-34.62140594,moto,auto,conductor,masculino,41,fatal
+2021-0090,1,2021-12-10,11,avenida,1,-58.38188582,-34.60256036,peaton,pasajeros,peaton,masculino,73,fatal
+2021-0091,1,2021-12-11,23,calle,10,-58.51989389,-34.62284918,moto,auto,conductor,masculino,24,fatal
+2021-0092,1,2021-12-12,6,avenida,3,-58.40596860,-34.61011987,peaton,auto,peaton,femenino,50,fatal
+2021-0093,1,2021-12-13,17,avenida,7,-58.43353773,-34.64561636,moto,auto,pasajero_acompañante,femenino,18,fatal
+2021-0094,1,2021-12-20,1,autopista,9,-58.46739825,-34.65117757,moto,auto,pasajero_acompañante,femenino,43,fatal
+2021-0095,1,2021-12-30,0,avenida,11,-58.47293407,-34.61984745,moto,cargas,conductor,masculino,27,fatal
+2021-0096,1,2021-12-15,10,avenida,9,-58.47066794,-34.65021673,auto,cargas,conductor,masculino,60,fatal
+2021-0097,1,2021-11-18,6,calle,1,-58.37976155,-34.58679619,bicicleta,auto,ciclista,masculino,53,fatal
