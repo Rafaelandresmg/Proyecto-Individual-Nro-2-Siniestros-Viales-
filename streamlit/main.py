@@ -1,9 +1,9 @@
 import streamlit as st
 
 # Título e introducción
-st.title("App de Análisis de Accidentes de Tráfico")
+st.title("App de Análisis de Accidentes de Tráfico en la Ciudad de Buenos Aires Argentina")
 st.markdown("***")
-st.write("¡Bienvenido a la App de Análisis de Accidentes de Tráfico! Esta aplicación proporciona información y análisis sobre los accidentes de tráfico.")
+st.write("¡Bienvenido a la App de Análisis de Accidentes de Tráfico! Esta aplicación proporciona información y análisis sobre los accidentes de tráfico en la ciudad de Buenos Aires Argentina.")
 
 # Barra lateral
 
