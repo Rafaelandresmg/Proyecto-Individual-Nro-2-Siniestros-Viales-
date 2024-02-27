@@ -7,4 +7,4 @@ st.write("¡Bienvenido a la App de Análisis de Accidentes de Tráfico! Esta apl
 
 # Barra lateral
 
-st.image("https://cdn.motor1.com/images/mgl/mMANEv/s1/seguridad-vial-en-argentina-2021.-foto-telam.jpg", caption="Fuente: Telam")
+st.image("https://media.urgente24.com/p/fa9b4b1f7acb276ae49313f06b86bad0/adjuntos/319/imagenes/002/277/0002277888/la-ciudad-buenos-aires-registro-apenas-98-accidentes-transito-fatales.jpg")
